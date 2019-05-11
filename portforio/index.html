@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <title>festina lente</title>
+</head>
+
+<body>
+    <header id="header">
+        <h1 id="title"><a href="#header">Festina Lente</a></h1>
+        <nav class="navmanu">
+            <ul>
+                <li><a href="#top">top</a></li>
+                <li><a href="#profile">profile</a></li>
+                <li><a href="#works">works</a></li>
+                <li><a href="#contact">contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="top">
+        <h2 class="toptitle">Festina Lente</h2>
+    </section>
+
+    <section id="profile">
+        <h3 class="title">Profile</h3>
+        <table class="user">
+            <tr>
+                <th>name</th>
+                <td>raika</td>
+            </tr>
+            <tr>
+                <th>adress</th>
+                <td>千葉県</td>
+            </tr>
+            <tr>
+                <th>skill</th>
+                <td>HTML, CSS, javascript,PHP</td>
+            </tr>
+            <tr>
+                <th>introduce</th>
+                <td>フロントエンド、サーバーサイド共に興味があり、スキルを習得できるよう日々勉強中です。<br>
+                    ユーザー目線に立ち、「使いやすいサービス」を心がけて作成しております。</td>
+            </tr>
+        </table>
+    </section>
+
+    <section id="works">
+        <h3 class="title">works</h3>
+        <div class="panel left" data-target="modal-1">
+            <div class="frame">
+                <img src="community.png" alt="">
+                <p>PHPを使用したブログサービス</p>
+            </div>
+        </div>
+        <div id="modal-1" class="modal">
+            <img src="community.png" alt="">
+            <p>
+                URL:<a href="http://fastina.xyz" target="_blank">fastina.xyz</a><br>
+                <span class="modal-detail">＜制作期間＞</span><br>
+                ２０日間（ワイヤーフレーム〜画面モック：５日間、ＰＨＰ：１３日、その他デザイン修正）<br>
+                <span class="modal-detail">＜制作経緯・目的＞</span><br>
+                学習記録をtwitterにて行なっていたが、プログラミング関連の話題と、その他の話題が混在して分かりにくくなっていた為、受講生同士の交流の場があればと思い作成。
+            </p>
+        </div>
+        <div class="panel right" data-target="modal-2">
+            <div class="frame">
+                <img src="maze.png" alt="">
+                <p>オブジェクト指向で作成したゲーム</p>
+            </div>
+        </div>
+        <div id="modal-2" class="modal">
+            <img src="maze.png" alt="">
+            <p>
+                URL:<a href="http://maze.fastina.xyz" target="_blank">maze.fastina.xyz</a><br>
+                <span class="modal-detail">＜制作期間＞</span><br>
+                ３日間<br>
+                <span class="modal-detail">＜制作経緯・目的＞</span><br>
+                オブジェクト指向の練習として、簡単なゲームを作成。最初はモンスターのみだったが、よりゲームらしくする為、マップの移動と自動生成を実装。
+            </p>
+        </div>
+        <div class="clear"></div>
+
+        <div class="panel left" data-target="modal-3">
+            <div class="frame">
+                <img src="community.png" alt="">
+                <p>説明文</p>
+            </div>
+        </div>
+        <div class="panel right" data-target="modal-4">
+            <div class="frame">
+                <img src="community.png" alt="">
+                <p>説明文</p>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </section>
+
+    <section id="contact">
+        <h3 class="title">contact</h3>
+        <form method="post">
+            <div class="form-g">
+                <p class="err-msg"></p>
+                <span class="formtag">名前</span><input type="text" class="name">
+            </div>
+            <div class="form-g">
+                <p class="err-msg"></p>
+                <span class="formtag">メールアドレス</span><input type="text" class="email">
+            </div>
+            <div class="form-g">
+                <p class="err-msg"></p>
+                <span class="formtag">問い合わせ内容</span><textarea name="" id="" cols="30" rows="10" class="comment"></textarea>
+            </div>
+            <input type="submit" class="submit">
+        </form>
+    </section>
+
+    <footer>
+        <p>Copyright <a href="index.php">Festina Lente</a> All Right Reserved</p>
+        <script src="jquery-3.3.1.min.js"></script>
+        <script src="main.js"></script>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,245 @@
+body {
+    position: relative;
+}
+
+header {
+    padding: 10vh 5vw;
+    height: 30vh;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 2;
+}
+
+#title {
+    position: fixed;
+    top: 10vh;
+    left: 5vw;
+    font-size: 14px;
+}
+
+.navmanu {
+    position: fixed;
+    top: 10vh;
+    right: 5vw;
+    overflow: hidden;
+    transition: .5s;
+}
+
+.hide {
+    display: none;
+    transform: translateY(-100%);
+}
+
+.navmanu li {
+    float: left;
+    margin-right: 5vw;
+    font-size: 14px;
+}
+
+#top {
+    height: 60vh;
+}
+
+.toptitle {
+    font-size: 15vh;
+    line-height: 50vh;
+    margin-left: 5vw;
+    display: none;
+}
+
+#profile {
+    height: 100vh;
+    position: relative;
+}
+
+.title {
+    margin-left: 5vw;
+    padding-top: 15vh;
+    height: 20vh;
+    font-size: 15vh;
+}
+
+.user {
+    position: absolute;
+    top: 50%;
+    right: 10vw;
+    transform: translateY(-50%);
+    background-color: #e3e3e3;
+    display: none;
+    padding: 5vh 5vw;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.user th {
+    position: relative;
+    left: 50vw;
+    opacity: 0;
+    min-width: 80px;
+    text-align: left;
+    line-height: 2;
+}
+
+.user td {
+    position: relative;
+    left: 50vw;
+    opacity: 0;
+    padding-left: 10px;
+    max-width: 40vw;
+}
+
+#works {
+    overflow: hidden;
+    position: relative;
+}
+
+#works .title {
+    margin-bottom: 20vh;
+}
+
+.left {
+    margin-left: 10vw;
+    margin-top: -10vh
+}
+
+.right {
+    float: right;
+    margin-right: 10vw;
+    margin-top: -10vh;
+}
+
+.clear {
+    clear: both;
+}
+
+.panel {
+    overflow: hidden;
+}
+
+.frame {
+    position: relative;
+    top: 100vh;
+}
+
+.panel img {
+    width: 35vw;
+    max-height: 50vh;
+    filter: grayscale(1);
+}
+
+.panel img:hover {
+    transform: translateY(-1vh);
+    filter: grayscale(0);
+}
+
+.modal {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #e3e3e3;
+    overflow: hidden;
+    padding: 10vh 10vw;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 2;
+}
+
+.modal img {
+    width: 50vw;
+    margin: auto;
+    vertical-align: middle;
+    display: block;
+}
+
+.modal p {
+    width: 50vw;
+    margin: auto;
+    padding-left: 2vw;
+}
+
+.modal-detail {
+    font-size: 2vw;
+    font-weight: bold;
+    margin-left: -2vw;
+}
+
+#contact {
+    min-height: 80vh;
+    margin-bottom: 10vh;
+}
+
+form {
+    margin: auto;
+    vertical-align: top;
+    overflow: hidden;
+    width: 70vw;
+}
+
+.form-g {
+    overflow: hidden;
+}
+
+.err-msg {
+    margin-left: 30vw;
+}
+
+.formtag {
+    width: 15vw;
+    display: block;
+    line-height: 2;
+    vertical-align: middle;
+    float: left;
+    margin-left: 10vw;
+    margin-right: 5vw;
+}
+
+input[type="text"] {
+    width: 30vw;
+    height: 10vh;
+    min-height: 20px;
+    max-height: 40px;
+    margin-bottom: 5vh;
+    float: left;
+}
+
+textarea {
+    width: 30vw;
+    height: 25vh;
+    min-height: 50px;
+    max-height: 100px;
+    margin-bottom: 5vh;
+    float: left;
+}
+
+input[type="submit"] {
+    background: none;
+    width: 20vw;
+    height: 10vh;
+    margin-right: 10vw;
+    float: right;
+}
+
+.error {
+    color: red;
+}
+
+.error input,
+.error textarea {
+    border: 1px solid red;
+}
+
+.success {
+    color: black;
+}
+
+.success input,
+.success textarea {
+    border: 1px solid black;
+}
+
+footer {
+    height: 10vh;
+    text-align: center;
+}
