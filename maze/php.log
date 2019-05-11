@@ -1,0 +1,3543 @@
+[24-Apr-2019 00:43:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 00:43:54 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 590
+[24-Apr-2019 00:44:36 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 00:44:38 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 00:44:41 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 00:44:50 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 00:44:50 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 590
+[24-Apr-2019 01:00:10 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:10 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:17 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:17 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:19 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:19 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:26 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:26 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:26 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:26 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:27 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:29 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:29 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:30 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:31 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:31 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:32 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:00:32 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:00:33 Asia/Tokyo] PHP Notice:  Undefined index: moster in /Applications/MAMP/htdocs/maze/index.php on line 441
+[24-Apr-2019 01:00:33 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getExp() on null in /Applications/MAMP/htdocs/maze/index.php:336
+Stack trace:
+#0 /Applications/MAMP/htdocs/maze/index.php(441): Human->addExp(NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 336
+[24-Apr-2019 01:02:08 Asia/Tokyo] PHP Notice:  Undefined index: moster in /Applications/MAMP/htdocs/maze/index.php on line 441
+[24-Apr-2019 01:02:08 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getExp() on null in /Applications/MAMP/htdocs/maze/index.php:336
+Stack trace:
+#0 /Applications/MAMP/htdocs/maze/index.php(441): Human->addExp(NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 336
+[24-Apr-2019 01:03:42 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 01:03:42 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 623
+[24-Apr-2019 01:03:42 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:03:47 Asia/Tokyo] PHP Notice:  Undefined index: moster in /Applications/MAMP/htdocs/maze/index.php on line 441
+[24-Apr-2019 01:03:47 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getExp() on null in /Applications/MAMP/htdocs/maze/index.php:336
+Stack trace:
+#0 /Applications/MAMP/htdocs/maze/index.php(441): Human->addExp(NULL)
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 336
+[24-Apr-2019 01:04:23 Asia/Tokyo] PHP Notice:  Undefined property: Monster::$requiredExp in /Applications/MAMP/htdocs/maze/index.php on line 337
+[24-Apr-2019 01:04:23 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:04:23 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 625
+[24-Apr-2019 01:04:46 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:04:46 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 626
+[24-Apr-2019 01:05:04 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 01:05:04 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 576
+[24-Apr-2019 01:06:23 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 01:06:23 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 577
+[24-Apr-2019 01:06:26 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:06:26 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:06:31 Asia/Tokyo] 0
+[24-Apr-2019 01:06:31 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:06:31 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:06:33 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:33 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:34 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:35 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:37 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:37 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:43 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:43 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:45 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:45 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:47 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:47 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:49 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:49 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:51 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:51 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:53 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:06:53 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:06:57 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function gemeOver() in /Applications/MAMP/htdocs/maze/index.php:449
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 449
+[24-Apr-2019 01:07:35 Asia/Tokyo] PHP Notice:  Undefined property: Monster::$requiredExp in /Applications/MAMP/htdocs/maze/index.php on line 337
+[24-Apr-2019 01:07:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:07:35 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:09 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:09 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:16 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 01:08:16 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 577
+[24-Apr-2019 01:08:19 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:08:19 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:08:24 Asia/Tokyo] 0
+[24-Apr-2019 01:08:24 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:08:24 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:08:26 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:26 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:27 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:28 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:28 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:29 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:29 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:30 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:30 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:31 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:31 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:32 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:32 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:34 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:08:35 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 627
+[24-Apr-2019 01:08:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:14:01 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:14:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:14:39 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:10 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:15 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:15:15 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:15:17 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:15:17 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:15:19 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:19 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:19 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:19 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:20 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:20 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:25 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:25 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:26 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:26 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:27 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:29 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:29 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:33 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:33 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:34 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:34 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:35 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:15:36 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 628
+[24-Apr-2019 01:15:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:17:21 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:17:21 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:17:23 Asia/Tokyo] 1
+[24-Apr-2019 01:17:23 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:17:23 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:22:04 Asia/Tokyo] 1
+[24-Apr-2019 01:22:04 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:22:04 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:04 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:04 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:22:07 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:22:07 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:07 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 01:22:07 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:15 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:15 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:15 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:15 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:17 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:17 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:17 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:17 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:19 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:19 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:19 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:19 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:20 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:20 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:20 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:20 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:22 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:22 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:22 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:22 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:23 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:23 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:23 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:23 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:23 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:23 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:23 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:23 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:24 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:24 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:24 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:24 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:24 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:24 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:24 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:24 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:25 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:22:25 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:25 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:22:25 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 642
+[24-Apr-2019 01:22:29 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:22:29 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 331
+[24-Apr-2019 01:22:29 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 332
+[24-Apr-2019 01:22:29 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:22:29 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:23:03 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:23:03 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:23:03 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:23:03 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:23:04 Asia/Tokyo] 1
+[24-Apr-2019 01:23:04 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:23:04 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 453
+[24-Apr-2019 01:23:04 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:23:04 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:23:06 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 434
+[24-Apr-2019 01:23:06 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 331
+[24-Apr-2019 01:23:06 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 332
+[24-Apr-2019 01:23:06 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 465
+[24-Apr-2019 01:23:06 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:24:40 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 435
+[24-Apr-2019 01:24:40 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 454
+[24-Apr-2019 01:24:40 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 466
+[24-Apr-2019 01:24:40 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:24:41 Asia/Tokyo] 1
+[24-Apr-2019 01:24:41 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 435
+[24-Apr-2019 01:24:41 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 454
+[24-Apr-2019 01:24:41 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 466
+[24-Apr-2019 01:24:41 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:24:42 Asia/Tokyo] PHP Notice:  Undefined index: attack in /Applications/MAMP/htdocs/maze/index.php on line 435
+[24-Apr-2019 01:24:42 Asia/Tokyo] 601
+[24-Apr-2019 01:24:42 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 332
+[24-Apr-2019 01:24:42 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 333
+[24-Apr-2019 01:24:42 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 466
+[24-Apr-2019 01:24:42 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:26:05 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 454
+[24-Apr-2019 01:26:05 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 466
+[24-Apr-2019 01:26:05 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:26:07 Asia/Tokyo] PHP Notice:  Undefined index: cure in /Applications/MAMP/htdocs/maze/index.php on line 454
+[24-Apr-2019 01:26:07 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 466
+[24-Apr-2019 01:26:07 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:26:08 Asia/Tokyo] 622
+[24-Apr-2019 01:26:08 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 332
+[24-Apr-2019 01:26:08 Asia/Tokyo] PHP Notice:  Undefined property: Human::$maxhp in /Applications/MAMP/htdocs/maze/index.php on line 333
+[24-Apr-2019 01:26:08 Asia/Tokyo] PHP Notice:  Undefined index: escape in /Applications/MAMP/htdocs/maze/index.php on line 466
+[24-Apr-2019 01:26:08 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:27:28 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:27:29 Asia/Tokyo] 1
+[24-Apr-2019 01:27:29 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:27:30 Asia/Tokyo] 613
+[24-Apr-2019 01:27:30 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:27:30 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 643
+[24-Apr-2019 01:27:33 Asia/Tokyo] 571
+[24-Apr-2019 01:27:33 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:27:33 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 643
+[24-Apr-2019 01:27:37 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 01:27:37 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 643
+[24-Apr-2019 01:28:13 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 01:28:34 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:29:02 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 01:29:04 Asia/Tokyo] 1
+[24-Apr-2019 01:29:04 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:29:05 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:29:08 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:29:09 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:29:11 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:29:13 Asia/Tokyo] 1
+[24-Apr-2019 01:29:13 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:29:28 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:28 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:29 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:29 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:29 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:29 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:30 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:30 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:32 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:32 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:33 Asia/Tokyo] 285
+[24-Apr-2019 01:29:33 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:33 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:34 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:34 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:35 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:41 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:41 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:42 Asia/Tokyo] 198
+[24-Apr-2019 01:29:42 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:42 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:44 Asia/Tokyo] 305
+[24-Apr-2019 01:29:44 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:44 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:44 Asia/Tokyo] 397
+[24-Apr-2019 01:29:44 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:44 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:46 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:46 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:48 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:48 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:51 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:51 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:51 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:51 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:51 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:51 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:51 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:51 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:53 Asia/Tokyo] 215
+[24-Apr-2019 01:29:53 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:53 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:54 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:55 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:55 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:56 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:56 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:57 Asia/Tokyo] 161
+[24-Apr-2019 01:29:57 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:57 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:57 Asia/Tokyo] 216
+[24-Apr-2019 01:29:57 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:57 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:58 Asia/Tokyo] 286
+[24-Apr-2019 01:29:58 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:29:58 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:59 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:59 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:59 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:59 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:29:59 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:29:59 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:01 Asia/Tokyo] 191
+[24-Apr-2019 01:30:01 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:30:01 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:01 Asia/Tokyo] 261
+[24-Apr-2019 01:30:01 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:30:01 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:02 Asia/Tokyo] 323
+[24-Apr-2019 01:30:02 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:30:02 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:02 Asia/Tokyo] 382
+[24-Apr-2019 01:30:02 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:30:02 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:03 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:30:03 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:04 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:30:04 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:05 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:30:05 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:06 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:30:06 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:30:07 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:30:07 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 644
+[24-Apr-2019 01:32:08 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 01:32:11 Asia/Tokyo] 1
+[24-Apr-2019 01:32:11 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:32:12 Asia/Tokyo] 1
+[24-Apr-2019 01:32:12 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:32:12 Asia/Tokyo] 1
+[24-Apr-2019 01:32:12 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:32:13 Asia/Tokyo] 1
+[24-Apr-2019 01:32:13 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:32:14 Asia/Tokyo] 1
+[24-Apr-2019 01:32:14 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:32:15 Asia/Tokyo] 0
+[24-Apr-2019 01:32:15 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:32:17 Asia/Tokyo] 0
+[24-Apr-2019 01:32:17 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:32:20 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 01:32:21 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:32:23 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:32:23 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 645
+[24-Apr-2019 01:32:23 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:32:23 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 645
+[24-Apr-2019 01:32:24 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:32:24 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 645
+[24-Apr-2019 01:32:25 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on string in /Applications/MAMP/htdocs/maze/index.php:447
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 447
+[24-Apr-2019 01:33:48 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on string in /Applications/MAMP/htdocs/maze/index.php:296
+Stack trace:
+#0 /Applications/MAMP/htdocs/maze/index.php(438): Creature->attack('')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 296
+[24-Apr-2019 01:34:22 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:22 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 613
+[24-Apr-2019 01:34:40 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 01:34:40 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 596
+[24-Apr-2019 01:34:43 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 01:34:46 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:34:47 Asia/Tokyo] 0
+[24-Apr-2019 01:34:47 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:34:49 Asia/Tokyo] 0
+[24-Apr-2019 01:34:49 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:34:50 Asia/Tokyo] 0
+[24-Apr-2019 01:34:50 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:34:50 Asia/Tokyo] 0
+[24-Apr-2019 01:34:50 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:34:51 Asia/Tokyo] 0
+[24-Apr-2019 01:34:51 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:34:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:34:54 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:34:55 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:34:55 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:34:55 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:34:55 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:34:56 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:34:56 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:34:56 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:34:56 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:34:57 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:34:59 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:35:02 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:35:04 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:35:06 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:06 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:06 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:06 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:07 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:07 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:07 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:07 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:07 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:07 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:08 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:08 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:09 Asia/Tokyo] 234
+[24-Apr-2019 01:35:09 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:35:09 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:10 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:10 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:10 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:10 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:12 Asia/Tokyo] 209
+[24-Apr-2019 01:35:12 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:35:12 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:13 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:13 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:13 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:13 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 646
+[24-Apr-2019 01:35:14 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:35:16 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:35:54 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:35:56 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 01:35:57 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:37:49 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:37:53 Asia/Tokyo] 1
+[24-Apr-2019 01:37:53 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:37:58 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:37:59 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:38:30 Asia/Tokyo] 1
+[24-Apr-2019 01:38:30 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:38:32 Asia/Tokyo] 1
+[24-Apr-2019 01:38:32 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:39:59 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:40:01 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 01:41:54 Asia/Tokyo] 1
+[24-Apr-2019 01:41:54 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:43:38 Asia/Tokyo] 1
+[24-Apr-2019 01:43:38 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:44:00 Asia/Tokyo] 1
+[24-Apr-2019 01:44:00 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:44:40 Asia/Tokyo] 1
+[24-Apr-2019 01:44:40 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:44:50 Asia/Tokyo] 1
+[24-Apr-2019 01:44:50 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:53:10 Asia/Tokyo] 1
+[24-Apr-2019 01:53:10 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 01:53:13 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:54:29 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:54:32 Asia/Tokyo] 0
+[24-Apr-2019 01:54:32 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:58:42 Asia/Tokyo] 0
+[24-Apr-2019 01:58:42 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 01:58:45 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 01:58:47 Asia/Tokyo] 189
+[24-Apr-2019 01:58:47 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:58:47 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:47 Asia/Tokyo] 249
+[24-Apr-2019 01:58:47 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:58:47 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:51 Asia/Tokyo] 328
+[24-Apr-2019 01:58:51 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:58:51 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:52 Asia/Tokyo] 397
+[24-Apr-2019 01:58:52 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:58:52 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:53 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:58:53 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:53 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:58:53 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:58:54 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:58:54 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:55 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:58:55 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:56 Asia/Tokyo] 169
+[24-Apr-2019 01:58:56 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:58:56 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:57 Asia/Tokyo] 239
+[24-Apr-2019 01:58:57 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:58:57 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:58 Asia/Tokyo] 309
+[24-Apr-2019 01:58:58 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 01:58:58 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:58 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:58:58 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:58:59 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:58:59 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:59:00 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:59:00 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:59:01 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 01:59:01 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 01:59:05 Asia/Tokyo] PHP Notice:  Undefined variable: map in /Applications/MAMP/htdocs/maze/index.php on line 421
+[24-Apr-2019 01:59:05 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function createMaze() on null in /Applications/MAMP/htdocs/maze/index.php:421
+Stack trace:
+#0 /Applications/MAMP/htdocs/maze/index.php(444): goNext()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 421
+[24-Apr-2019 02:00:44 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on string in /Applications/MAMP/htdocs/maze/index.php:296
+Stack trace:
+#0 /Applications/MAMP/htdocs/maze/index.php(448): Creature->attack('')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 296
+[24-Apr-2019 02:00:55 Asia/Tokyo] PHP Notice:  Undefined index: floor in /Applications/MAMP/htdocs/maze/index.php on line 423
+[24-Apr-2019 02:00:55 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:00:55 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 02:00:59 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:01:01 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:01:01 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 02:01:03 Asia/Tokyo] 0
+[24-Apr-2019 02:01:03 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:01:05 Asia/Tokyo] 0
+[24-Apr-2019 02:01:05 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:01:09 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:01:11 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:01:12 Asia/Tokyo] 1
+[24-Apr-2019 02:01:12 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:01:14 Asia/Tokyo] 1
+[24-Apr-2019 02:01:14 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:01:15 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 02:01:15 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 02:01:17 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:01:18 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 02:01:18 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 02:01:20 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:01:21 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:01:23 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 02:01:23 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 02:01:25 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:01:25 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 674
+[24-Apr-2019 02:02:57 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:02:57 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 675
+[24-Apr-2019 02:03:15 Asia/Tokyo] 1
+[24-Apr-2019 02:03:15 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:03:17 Asia/Tokyo] 0
+[24-Apr-2019 02:03:17 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:03:18 Asia/Tokyo] 0
+[24-Apr-2019 02:03:18 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:03:19 Asia/Tokyo] 0
+[24-Apr-2019 02:03:19 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:03:19 Asia/Tokyo] 0
+[24-Apr-2019 02:03:19 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:03:19 Asia/Tokyo] 0
+[24-Apr-2019 02:03:19 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:03:20 Asia/Tokyo] 0
+[24-Apr-2019 02:03:20 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:03:21 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:03:21 Asia/Tokyo] PHP Notice:  Undefined index: direction in /Applications/MAMP/htdocs/maze/index.php on line 675
+[24-Apr-2019 02:03:23 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:04:30 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:05:01 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:06:01 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:07:09 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 197
+[24-Apr-2019 02:07:09 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:07:41 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 02:07:41 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 622
+[24-Apr-2019 02:07:50 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 02:07:52 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:07:55 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:07:57 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:07:57 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:07:58 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:00 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:08:01 Asia/Tokyo] 0
+[24-Apr-2019 02:08:01 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:03 Asia/Tokyo] 506
+[24-Apr-2019 02:08:03 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:08:04 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:04 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:05 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:05 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:06 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:06 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:08 Asia/Tokyo] 0
+[24-Apr-2019 02:08:08 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:08 Asia/Tokyo] 0
+[24-Apr-2019 02:08:08 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:09 Asia/Tokyo] 0
+[24-Apr-2019 02:08:09 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:10 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:08:12 Asia/Tokyo] 0
+[24-Apr-2019 02:08:12 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:13 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:08:15 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:08:19 Asia/Tokyo] 1
+[24-Apr-2019 02:08:19 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:21 Asia/Tokyo] 483
+[24-Apr-2019 02:08:21 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:08:22 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:22 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:23 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:25 Asia/Tokyo] 1
+[24-Apr-2019 02:08:25 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:25 Asia/Tokyo] 1
+[24-Apr-2019 02:08:25 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:26 Asia/Tokyo] 1
+[24-Apr-2019 02:08:26 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:28 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:30 Asia/Tokyo] 0
+[24-Apr-2019 02:08:30 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:31 Asia/Tokyo] 0
+[24-Apr-2019 02:08:31 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:32 Asia/Tokyo] 1
+[24-Apr-2019 02:08:32 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:37 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:39 Asia/Tokyo] 375
+[24-Apr-2019 02:08:39 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:08:40 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:41 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:42 Asia/Tokyo] 1
+[24-Apr-2019 02:08:42 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:45 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:08:47 Asia/Tokyo] 1
+[24-Apr-2019 02:08:47 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:48 Asia/Tokyo] 1
+[24-Apr-2019 02:08:48 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:48 Asia/Tokyo] 1
+[24-Apr-2019 02:08:48 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:08:49 Asia/Tokyo] 0
+[24-Apr-2019 02:08:49 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:51 Asia/Tokyo] 0
+[24-Apr-2019 02:08:51 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:51 Asia/Tokyo] 0
+[24-Apr-2019 02:08:51 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:08:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:54 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:55 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:56 Asia/Tokyo] 245
+[24-Apr-2019 02:08:56 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:08:56 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:57 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:57 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:58 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:08:59 Asia/Tokyo] 0
+[24-Apr-2019 02:08:59 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:09:00 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:09:03 Asia/Tokyo] 186
+[24-Apr-2019 02:09:03 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:09:03 Asia/Tokyo] 289
+[24-Apr-2019 02:09:03 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:09:04 Asia/Tokyo] 369
+[24-Apr-2019 02:09:04 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:09:05 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:06 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:07 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:08 Asia/Tokyo] 324
+[24-Apr-2019 02:09:08 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:09:10 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:10 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:12 Asia/Tokyo] 324
+[24-Apr-2019 02:09:12 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:09:12 Asia/Tokyo] 401
+[24-Apr-2019 02:09:12 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:09:13 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:14 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:15 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:16 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:17 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:20 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:09:21 Asia/Tokyo] 0
+[24-Apr-2019 02:09:21 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:09:23 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:24 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:24 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:26 Asia/Tokyo] 0
+[24-Apr-2019 02:09:26 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:09:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:09:32 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:10:24 Asia/Tokyo] 1
+[24-Apr-2019 02:10:24 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:11:25 Asia/Tokyo] 1
+[24-Apr-2019 02:11:25 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:11:27 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[24-Apr-2019 02:11:30 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 02:11:32 Asia/Tokyo] 0
+[24-Apr-2019 02:11:32 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:11:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:11:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:11:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:11:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:11:34 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:11:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:11:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:11:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:19 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[24-Apr-2019 02:12:22 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 02:12:24 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:12:26 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:12:27 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:12:28 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:12:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:30 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:32 Asia/Tokyo] 1
+[24-Apr-2019 02:12:32 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:12:34 Asia/Tokyo] 1
+[24-Apr-2019 02:12:34 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:12:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:37 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:37 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:12:39 Asia/Tokyo] 1
+[24-Apr-2019 02:12:39 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:12:39 Asia/Tokyo] 1
+[24-Apr-2019 02:12:39 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:12:40 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:12:42 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 02:12:43 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[24-Apr-2019 02:12:48 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 02:12:57 Asia/Tokyo] Array
+(
+)
+
+[24-Apr-2019 02:12:57 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 684
+[24-Apr-2019 02:13:23 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 02:13:25 Asia/Tokyo] 1
+[24-Apr-2019 02:13:25 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:13:26 Asia/Tokyo] 1
+[24-Apr-2019 02:13:26 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:13:27 Asia/Tokyo] 1
+[24-Apr-2019 02:13:27 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:13:27 Asia/Tokyo] 1
+[24-Apr-2019 02:13:27 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:13:28 Asia/Tokyo] 1
+[24-Apr-2019 02:13:28 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:13:29 Asia/Tokyo] 0
+[24-Apr-2019 02:13:29 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:13:30 Asia/Tokyo] 0
+[24-Apr-2019 02:13:30 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:13:31 Asia/Tokyo] 0
+[24-Apr-2019 02:13:31 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:13:31 Asia/Tokyo] 0
+[24-Apr-2019 02:13:31 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:13:32 Asia/Tokyo] 0
+[24-Apr-2019 02:13:32 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:13:32 Asia/Tokyo] 0
+[24-Apr-2019 02:13:32 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:13:34 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:13:35 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:36 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:37 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:38 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:39 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:40 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:13:41 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:13:43 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:43 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:44 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:45 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:46 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:48 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:13:49 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:13:50 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:13:51 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:13:53 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:54 Asia/Tokyo] 239
+[24-Apr-2019 02:13:54 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:13:56 Asia/Tokyo] 316
+[24-Apr-2019 02:13:56 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:13:57 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:58 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:58 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:13:59 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:14:00 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:14:01 Asia/Tokyo] 168
+[24-Apr-2019 02:14:01 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:14:02 Asia/Tokyo] 224
+[24-Apr-2019 02:14:02 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:14:03 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:14:04 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:14:05 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:14:05 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:14:07 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:14:07 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:14:08 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:14:09 Asia/Tokyo] 0
+[24-Apr-2019 02:14:09 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[24-Apr-2019 02:14:10 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:15:21 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[24-Apr-2019 02:15:40 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 02:15:43 Asia/Tokyo] 1
+[24-Apr-2019 02:15:43 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:16:00 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[24-Apr-2019 02:16:02 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 02:16:24 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:16:26 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:26 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:27 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:28 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:28 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:29 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:30 Asia/Tokyo] 211
+[24-Apr-2019 02:16:30 Asia/Tokyo] Array
+(
+    [cure] => 回復する
+)
+
+[24-Apr-2019 02:16:31 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:31 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:32 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:33 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:16:37 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[24-Apr-2019 02:16:38 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:16:39 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:16:40 Asia/Tokyo] 1
+[24-Apr-2019 02:16:40 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:16:42 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 02:16:43 Asia/Tokyo] 1
+[24-Apr-2019 02:16:43 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:16:45 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[24-Apr-2019 02:16:47 Asia/Tokyo] 1
+[24-Apr-2019 02:16:47 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:16:47 Asia/Tokyo] 1
+[24-Apr-2019 02:16:47 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:16:48 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:16:49 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[24-Apr-2019 02:16:51 Asia/Tokyo] 1
+[24-Apr-2019 02:16:51 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:16:52 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:23:26 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[24-Apr-2019 02:23:29 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[24-Apr-2019 02:23:30 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[24-Apr-2019 02:23:32 Asia/Tokyo] 1
+[24-Apr-2019 02:23:32 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:23:33 Asia/Tokyo] 1
+[24-Apr-2019 02:23:33 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:23:34 Asia/Tokyo] 1
+[24-Apr-2019 02:23:34 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[24-Apr-2019 02:23:37 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:23:38 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:23:38 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:23:39 Asia/Tokyo] Array
+(
+    [attack] => 攻撃する
+)
+
+[24-Apr-2019 02:23:41 Asia/Tokyo] Array
+(
+    [goNext] => next
+)
+
+[25-Apr-2019 00:01:55 Asia/Tokyo] Array
+(
+)
+
+[25-Apr-2019 00:01:55 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 706
+[25-Apr-2019 00:02:01 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 00:54:56 Asia/Tokyo] Array
+(
+)
+
+[25-Apr-2019 00:55:19 Asia/Tokyo] Array
+(
+)
+
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:19 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 668
+[25-Apr-2019 00:55:22 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[25-Apr-2019 00:55:24 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 00:58:54 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 00:59:25 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:01:35 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:01:59 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:03:04 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:04:52 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:08:18 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:11:21 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:14:52 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:19:03 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:20:54 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:22:57 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:25:51 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:34:33 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:35:12 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:35:35 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:36:43 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:38:38 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:40:06 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:40:28 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:40:43 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:42:51 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:43:58 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:45:22 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 01:45:26 Asia/Tokyo] 0
+[25-Apr-2019 01:45:26 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 01:45:29 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[25-Apr-2019 01:45:34 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:38:51 Asia/Tokyo] Array
+(
+)
+
+[25-Apr-2019 22:38:51 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 712
+[25-Apr-2019 22:38:51 Asia/Tokyo] PHP Notice:  Undefined index: map in /Applications/MAMP/htdocs/maze/index.php on line 725
+[25-Apr-2019 22:38:51 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on null in /Applications/MAMP/htdocs/maze/index.php:725
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 725
+[25-Apr-2019 22:38:52 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 22:39:10 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[25-Apr-2019 22:40:08 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[25-Apr-2019 22:40:08 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 725
+[25-Apr-2019 22:40:26 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:40:26 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[25-Apr-2019 22:40:26 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 725
+[25-Apr-2019 22:40:48 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:40:48 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:40:48 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 725
+[25-Apr-2019 22:41:38 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:41:38 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:41:38 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 725
+[25-Apr-2019 22:44:44 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:44:44 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:44:44 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 725
+[25-Apr-2019 22:49:03 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:49:03 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:49:03 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 706
+[25-Apr-2019 22:49:03 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 726
+[25-Apr-2019 22:49:53 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:49:53 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:49:53 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 726
+[25-Apr-2019 22:53:28 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:53:28 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:53:28 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 726
+[25-Apr-2019 22:54:17 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:54:17 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:54:17 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 726
+[25-Apr-2019 22:54:40 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:54:40 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:54:40 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 726
+[25-Apr-2019 22:55:16 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:55:16 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:55:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/maze/index.php on line 726
+[25-Apr-2019 22:55:39 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:55:39 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:56:43 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:56:43 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 22:57:30 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 22:57:30 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 23:01:26 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 23:01:26 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 23:02:50 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 23:02:50 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 23:09:41 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 23:09:41 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[25-Apr-2019 23:09:50 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 194
+[25-Apr-2019 23:09:50 Asia/Tokyo] 0
+[25-Apr-2019 23:09:50 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:09:52 Asia/Tokyo] 0
+[25-Apr-2019 23:09:52 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:13:41 Asia/Tokyo] 0
+[25-Apr-2019 23:13:41 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:14:09 Asia/Tokyo] 0
+[25-Apr-2019 23:14:09 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:15:14 Asia/Tokyo] 0
+[25-Apr-2019 23:15:14 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:15:29 Asia/Tokyo] 0
+[25-Apr-2019 23:15:29 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:16:23 Asia/Tokyo] 0
+[25-Apr-2019 23:16:23 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:18:04 Asia/Tokyo] 0
+[25-Apr-2019 23:18:04 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 188
+[25-Apr-2019 23:18:04 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:20:18 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 188
+[25-Apr-2019 23:20:18 Asia/Tokyo] 0
+[25-Apr-2019 23:20:18 Asia/Tokyo] PHP Notice:  Undefined offset: -2 in /Applications/MAMP/htdocs/maze/index.php on line 188
+[25-Apr-2019 23:20:18 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 191
+[25-Apr-2019 23:20:18 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 197
+[25-Apr-2019 23:20:18 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[25-Apr-2019 23:20:20 Asia/Tokyo] PHP Notice:  Undefined offset: -2 in /Applications/MAMP/htdocs/maze/index.php on line 188
+[25-Apr-2019 23:20:20 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 191
+[25-Apr-2019 23:20:20 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 197
+[25-Apr-2019 23:20:20 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[25-Apr-2019 23:20:20 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on string in /Applications/MAMP/htdocs/maze/index.php:726
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 726
+[25-Apr-2019 23:20:22 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[25-Apr-2019 23:20:25 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[26-Apr-2019 00:46:08 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[26-Apr-2019 00:46:08 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on string in /Applications/MAMP/htdocs/maze/index.php:726
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 726
+[26-Apr-2019 00:46:10 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[26-Apr-2019 00:46:13 Asia/Tokyo] 0
+[26-Apr-2019 00:46:13 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:46:17 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[26-Apr-2019 00:46:19 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[26-Apr-2019 00:46:22 Asia/Tokyo] 0
+[26-Apr-2019 00:46:22 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:46:24 Asia/Tokyo] 0
+[26-Apr-2019 00:46:24 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:46:26 Asia/Tokyo] 1
+[26-Apr-2019 00:46:26 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:46:30 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[26-Apr-2019 00:46:52 Asia/Tokyo] 1
+[26-Apr-2019 00:46:52 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:46:54 Asia/Tokyo] 1
+[26-Apr-2019 00:46:54 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:46:56 Asia/Tokyo] Array
+(
+    [escape] => 逃げる
+)
+
+[26-Apr-2019 00:46:58 Asia/Tokyo] 1
+[26-Apr-2019 00:46:58 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:47:00 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[26-Apr-2019 00:47:02 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[26-Apr-2019 00:47:04 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[26-Apr-2019 00:47:04 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on string in /Applications/MAMP/htdocs/maze/index.php:726
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 726
+[26-Apr-2019 00:49:23 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[26-Apr-2019 00:49:26 Asia/Tokyo] 0
+[26-Apr-2019 00:49:26 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:49:28 Asia/Tokyo] 1
+[26-Apr-2019 00:49:28 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:51:48 Asia/Tokyo] 1
+[26-Apr-2019 00:51:48 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:51:50 Asia/Tokyo] 1
+[26-Apr-2019 00:51:50 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:55:58 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[26-Apr-2019 00:55:58 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on string in /Applications/MAMP/htdocs/maze/index.php:735
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 735
+[26-Apr-2019 00:56:01 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[26-Apr-2019 00:56:04 Asia/Tokyo] 0
+[26-Apr-2019 00:56:04 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:56:07 Asia/Tokyo] 0
+[26-Apr-2019 00:56:07 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:59:03 Asia/Tokyo] 0
+[26-Apr-2019 00:59:03 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 196
+[26-Apr-2019 00:59:03 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:59:05 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 196
+[26-Apr-2019 00:59:05 Asia/Tokyo] Array
+(
+    [restart] => リスタート
+)
+
+[26-Apr-2019 00:59:05 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on string in /Applications/MAMP/htdocs/maze/index.php:737
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 737
+[26-Apr-2019 00:59:06 Asia/Tokyo] Array
+(
+    [start] => ゲームスタート
+)
+
+[26-Apr-2019 00:59:08 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[26-Apr-2019 00:59:11 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[26-Apr-2019 00:59:15 Asia/Tokyo] 0
+[26-Apr-2019 00:59:15 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:59:21 Asia/Tokyo] 0
+[26-Apr-2019 00:59:21 Asia/Tokyo] Array
+(
+    [direction] => 0
+)
+
+[26-Apr-2019 00:59:27 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[26-Apr-2019 00:59:30 Asia/Tokyo] Array
+(
+    [direction] => 2
+)
+
+[26-Apr-2019 00:59:33 Asia/Tokyo] 1
+[26-Apr-2019 00:59:33 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:59:40 Asia/Tokyo] 1
+[26-Apr-2019 00:59:40 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 00:59:45 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[26-Apr-2019 01:00:25 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[26-Apr-2019 01:00:38 Asia/Tokyo] 1
+[26-Apr-2019 01:00:38 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 01:00:43 Asia/Tokyo] 1
+[26-Apr-2019 01:00:43 Asia/Tokyo] Array
+(
+    [direction] => 1
+)
+
+[26-Apr-2019 01:01:00 Asia/Tokyo] Array
+(
+    [direction] => 3
+)
+
+[26-Apr-2019 01:38:53 Asia/Tokyo] PHP Fatal error:  main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Map&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /Applications/MAMP/htdocs/maze/index.php on line 304
+[26-Apr-2019 01:42:14 Asia/Tokyo] PHP Fatal error:  main(): The script tried to execute a method or access a property of an incomplete object. Please ensure that the class definition &quot;Map&quot; of the object you are trying to operate on was loaded _before_ unserialize() gets called or provide an autoloader to load the class definition in /Applications/MAMP/htdocs/maze/index.php on line 464
+[26-Apr-2019 01:44:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on string in /Applications/MAMP/htdocs/maze/index.php:761
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 761
+[26-Apr-2019 01:45:59 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getNow() on string in /Applications/MAMP/htdocs/maze/index.php:762
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 762
+[26-Apr-2019 01:46:05 Asia/Tokyo] 0
+[26-Apr-2019 01:48:23 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 205
+[26-Apr-2019 01:48:34 Asia/Tokyo] PHP Notice:  Undefined offset: -1 in /Applications/MAMP/htdocs/maze/index.php on line 205
+[26-Apr-2019 01:49:55 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 748
+[26-Apr-2019 01:50:40 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 748
+[26-Apr-2019 01:50:49 Asia/Tokyo] 0
+[26-Apr-2019 01:50:50 Asia/Tokyo] 0
+[26-Apr-2019 02:20:37 Asia/Tokyo] PHP Notice:  Undefined variable: map in /Applications/MAMP/htdocs/maze/index.php on line 798
+[26-Apr-2019 02:20:37 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getMoved() on null in /Applications/MAMP/htdocs/maze/index.php:798
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 798
+[26-Apr-2019 02:21:09 Asia/Tokyo] PHP Notice:  Undefined variable: map in /Applications/MAMP/htdocs/maze/index.php on line 798
+[26-Apr-2019 02:21:09 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getMoved() on null in /Applications/MAMP/htdocs/maze/index.php:798
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/maze/index.php on line 798
+[26-Apr-2019 02:21:49 Asia/Tokyo] 0
+[26-Apr-2019 02:21:51 Asia/Tokyo] 0
+[26-Apr-2019 02:22:11 Asia/Tokyo] 0
+[26-Apr-2019 02:22:13 Asia/Tokyo] 0
+[26-Apr-2019 02:22:14 Asia/Tokyo] 1
+[26-Apr-2019 02:22:17 Asia/Tokyo] 1
+[26-Apr-2019 02:22:18 Asia/Tokyo] 0
+[26-Apr-2019 02:22:20 Asia/Tokyo] 0
+[26-Apr-2019 02:22:34 Asia/Tokyo] 0
+[26-Apr-2019 02:25:10 Asia/Tokyo] 0
+[26-Apr-2019 02:25:30 Asia/Tokyo] 1
+[26-Apr-2019 02:25:31 Asia/Tokyo] 1
+[26-Apr-2019 02:25:33 Asia/Tokyo] 1
+[26-Apr-2019 02:25:52 Asia/Tokyo] 0
+[26-Apr-2019 02:25:54 Asia/Tokyo] 0
+[26-Apr-2019 02:25:56 Asia/Tokyo] 0
+[26-Apr-2019 02:25:57 Asia/Tokyo] 1
+[26-Apr-2019 02:25:58 Asia/Tokyo] 1
+[26-Apr-2019 02:26:04 Asia/Tokyo] 1
+[26-Apr-2019 02:26:05 Asia/Tokyo] 1
+[26-Apr-2019 02:26:24 Asia/Tokyo] 0
+[26-Apr-2019 02:26:26 Asia/Tokyo] 0
+[26-Apr-2019 02:26:26 Asia/Tokyo] 0
+[26-Apr-2019 02:26:29 Asia/Tokyo] 1
+[26-Apr-2019 02:26:30 Asia/Tokyo] 1
+[26-Apr-2019 02:26:30 Asia/Tokyo] 1
+[26-Apr-2019 02:26:31 Asia/Tokyo] 1
+[26-Apr-2019 02:26:31 Asia/Tokyo] 1
+[26-Apr-2019 02:26:32 Asia/Tokyo] 1
+[26-Apr-2019 02:26:46 Asia/Tokyo] 0
+[26-Apr-2019 02:26:47 Asia/Tokyo] 0
+[26-Apr-2019 02:26:50 Asia/Tokyo] 0
+[26-Apr-2019 02:26:51 Asia/Tokyo] 0
+[26-Apr-2019 02:26:51 Asia/Tokyo] 0
+[26-Apr-2019 02:26:52 Asia/Tokyo] 0
+[26-Apr-2019 02:26:58 Asia/Tokyo] 1
+[26-Apr-2019 02:26:59 Asia/Tokyo] 1
+[26-Apr-2019 02:27:02 Asia/Tokyo] 1
+[26-Apr-2019 02:27:04 Asia/Tokyo] 1
+[26-Apr-2019 02:27:04 Asia/Tokyo] 1
+[26-Apr-2019 02:27:07 Asia/Tokyo] 1
+[26-Apr-2019 02:27:08 Asia/Tokyo] 0
+[26-Apr-2019 02:27:11 Asia/Tokyo] 0
+[26-Apr-2019 02:27:17 Asia/Tokyo] 0
+[26-Apr-2019 02:28:10 Asia/Tokyo] 1
+[26-Apr-2019 02:29:38 Asia/Tokyo] 1
+[26-Apr-2019 02:29:39 Asia/Tokyo] 1
+[26-Apr-2019 02:32:11 Asia/Tokyo] 0
+[26-Apr-2019 02:32:12 Asia/Tokyo] 0
+[26-Apr-2019 02:32:13 Asia/Tokyo] 0
+[26-Apr-2019 02:32:14 Asia/Tokyo] 0
+[26-Apr-2019 02:32:15 Asia/Tokyo] 1
+[26-Apr-2019 02:32:18 Asia/Tokyo] 1
+[26-Apr-2019 02:32:19 Asia/Tokyo] 1
+[26-Apr-2019 02:32:19 Asia/Tokyo] 1
+[26-Apr-2019 02:32:29 Asia/Tokyo] 1
+[26-Apr-2019 02:32:31 Asia/Tokyo] 1
+[26-Apr-2019 02:39:22 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 199
+[26-Apr-2019 02:39:24 Asia/Tokyo] PHP Notice:  Undefined offset: 9 in /Applications/MAMP/htdocs/maze/index.php on line 199
+[26-Apr-2019 02:40:33 Asia/Tokyo] 1
+[26-Apr-2019 02:40:33 Asia/Tokyo] 2
+[26-Apr-2019 02:40:33 Asia/Tokyo] 3
+[26-Apr-2019 02:40:33 Asia/Tokyo] boss
+[26-Apr-2019 02:40:52 Asia/Tokyo] 1
+[26-Apr-2019 02:40:52 Asia/Tokyo] 2
+[26-Apr-2019 02:40:52 Asia/Tokyo] 3
+[26-Apr-2019 02:40:52 Asia/Tokyo] boss
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:39 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
+[26-Apr-2019 02:49:51 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 746
+[27-Apr-2019 13:12:23 Asia/Tokyo] PHP Notice:  Undefined index: history in /Applications/MAMP/htdocs/maze/index.php on line 746
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Notice:  Undefined variable: direction in /Applications/MAMP/htdocs/maze/index.php on line 705
+[27-Apr-2019 13:12:27 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Applications/MAMP/htdocs/maze/index.php on line 705
