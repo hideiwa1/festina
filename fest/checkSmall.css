@@ -1,0 +1,96 @@
+.form {
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    background-color: white;
+}
+
+h2 {
+    background: black;
+    color: aliceblue;
+    position: relative;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h2::before {
+    content: '';
+    border-bottom: 20px solid transparent;
+    border-right: 40px solid gray;
+    position: absolute;
+    top: 100%;
+    left: 0;
+}
+
+form {
+    padding: 30px;
+    overflow: hidden;
+}
+
+
+input[type="submit"] {
+    width: 100px;
+    height: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: gray 3px 3px;
+    float: left;
+    position: relative;
+    left: -50%;
+}
+
+input[type="submit"]:hover {
+    transform: translate(3px, 3px);
+    box-shadow: none;
+}
+
+main img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.button,
+.img {
+    overflow: hidden;
+    padding-bottom: 20px;
+    position: relative;
+
+}
+
+.button div {
+    position: relative;
+    left: 50%;
+    float: left;
+}
+
+main p .item {
+    background-color: #0088e7;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    padding: 0 10px;
+    min-width: 100px;
+    margin: 5px 0;
+    text-align: center;
+}
+
+main span {
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+.img img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 10px;
+}

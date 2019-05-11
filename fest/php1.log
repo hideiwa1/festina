@@ -1,0 +1,3107 @@
+[23-Mar-2019 00:24:45 Asia/Tokyo] PHP Warning:  session_save_path(): open_basedir restriction in effect. File(/var/tmp/) is not within the allowed path(s): (/home/festina/fastina.xyz/:/usr/share/pear53/) in /home/festina/fastina.xyz/public_html/function.php on line 14
+[23-Mar-2019 00:24:45 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:24:45 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:24:45 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/festina/fastina.xyz/public_html/function.php on line 18
+[23-Mar-2019 00:24:45 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 00:24:45 Asia/Tokyo] デバッグ：セッションID:ms3rnfu8fd3k1bb1lkqk2prj65rhp2bm
+[23-Mar-2019 00:24:45 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:24:45 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:24:45 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:24:45 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:24:45 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 49
+[23-Mar-2019 00:24:45 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 65
+[23-Mar-2019 00:24:45 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 88
+[23-Mar-2019 00:27:17 Asia/Tokyo] PHP Warning:  session_save_path(): open_basedir restriction in effect. File(/var/tmp/) is not within the allowed path(s): (/home/festina/fastina.xyz/:/usr/share/pear53/) in /home/festina/fastina.xyz/public_html/function.php on line 14
+[23-Mar-2019 00:27:17 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:27:17 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:27:17 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/festina/fastina.xyz/public_html/function.php on line 18
+[23-Mar-2019 00:27:17 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 00:27:17 Asia/Tokyo] デバッグ：セッションID:gorfppdvhfl4pjelunrhu9s9a7ocensm
+[23-Mar-2019 00:27:17 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:27:17 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:27:17 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:27:17 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:27:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 49
+[23-Mar-2019 00:27:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 65
+[23-Mar-2019 00:27:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 88
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Warning:  session_save_path(): open_basedir restriction in effect. File(/var/tmp/) is not within the allowed path(s): (/home/festina/fastina.xyz/:/usr/share/pear53/) in /home/festina/fastina.xyz/public_html/function.php on line 14
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/festina/fastina.xyz/public_html/function.php on line 18
+[23-Mar-2019 00:27:22 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[23-Mar-2019 00:27:22 Asia/Tokyo] デバッグ：セッションID:d353jic0kb75ob1pq59thtqfo6jepcc0
+[23-Mar-2019 00:27:22 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:27:22 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 23
+[23-Mar-2019 00:27:22 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:27:22 Asia/Tokyo] デバッグ：$dbEvent:
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/eventindex.php on line 67
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/eventindex.php on line 91
+[23-Mar-2019 00:27:22 Asia/Tokyo] PHP Notice:  Undefined variable: dbDiary in /home/festina/fastina.xyz/public_html/eventindex.php on line 109
+[23-Mar-2019 00:29:19 Asia/Tokyo] PHP Warning:  session_save_path(): open_basedir restriction in effect. File(/var/tmp/) is not within the allowed path(s): (/home/festina/fastina.xyz/:/usr/share/pear53/) in /home/festina/fastina.xyz/public_html/function.php on line 14
+[23-Mar-2019 00:29:19 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:29:19 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:29:19 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/festina/fastina.xyz/public_html/function.php on line 18
+[23-Mar-2019 00:29:19 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 00:29:19 Asia/Tokyo] デバッグ：セッションID:iep4neoc278el40boonhe6eg9bfhjso4
+[23-Mar-2019 00:29:19 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:29:19 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:29:19 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:29:19 Asia/Tokyo] デバッグ：エラー発生:SQLSTATE[00000] [1130] Host 'sv4.php.xdomain.ne.jp' is not allowed to connect to this MySQL server
+[23-Mar-2019 00:29:19 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 49
+[23-Mar-2019 00:29:19 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 65
+[23-Mar-2019 00:29:19 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/index.php on line 88
+[23-Mar-2019 00:45:41 Asia/Tokyo] PHP Warning:  session_save_path(): open_basedir restriction in effect. File(/var/tmp/) is not within the allowed path(s): (/home/festina/fastina.xyz/:/usr/share/pear53/) in /home/festina/fastina.xyz/public_html/function.php on line 14
+[23-Mar-2019 00:45:41 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:45:41 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:45:41 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/festina/fastina.xyz/public_html/function.php on line 18
+[23-Mar-2019 00:45:41 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 00:45:41 Asia/Tokyo] デバッグ：セッションID:vih4ji9kro5b7l92tkhpttnqiif9t893
+[23-Mar-2019 00:45:41 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:45:51 Asia/Tokyo] PHP Warning:  session_save_path(): open_basedir restriction in effect. File(/var/tmp/) is not within the allowed path(s): (/home/festina/fastina.xyz/:/usr/share/pear53/) in /home/festina/fastina.xyz/public_html/function.php on line 14
+[23-Mar-2019 00:45:51 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:45:51 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:45:51 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/festina/fastina.xyz/public_html/function.php on line 18
+[23-Mar-2019 00:45:51 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[23-Mar-2019 00:45:51 Asia/Tokyo] デバッグ：セッションID:6sd1q9204kn8mvg02l0432sh6n4v4mdm
+[23-Mar-2019 00:45:51 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:45:51 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 22
+[23-Mar-2019 00:45:51 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 138
+[23-Mar-2019 00:45:51 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 167
+[23-Mar-2019 00:49:15 Asia/Tokyo] PHP Warning:  session_save_path(): open_basedir restriction in effect. File(/var/tmp/) is not within the allowed path(s): (/home/festina/fastina.xyz/:/usr/share/pear53/) in /home/festina/fastina.xyz/public_html/function.php on line 14
+[23-Mar-2019 00:49:15 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:49:15 Asia/Tokyo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/festina/fastina.xyz/public_html/function.php:14) in /home/festina/fastina.xyz/public_html/function.php on line 17
+[23-Mar-2019 00:49:15 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/festina/fastina.xyz/public_html/function.php on line 18
+[23-Mar-2019 00:49:15 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[23-Mar-2019 00:49:15 Asia/Tokyo] デバッグ：セッションID:23b0a66pbnvo8hhhuuaops7lm3kvk861
+[23-Mar-2019 00:49:15 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:49:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[23-Mar-2019 00:49:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[23-Mar-2019 00:57:02 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[23-Mar-2019 00:57:02 Asia/Tokyo] デバッグ：セッションID:rpfdi1tsn6gpiig5jceaoenur6dejdtr
+[23-Mar-2019 00:57:02 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:57:02 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[23-Mar-2019 00:57:02 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[23-Mar-2019 00:57:09 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 00:57:09 Asia/Tokyo] デバッグ：セッションID:q564hv1a1c68vaotn75do040kngticnp
+[23-Mar-2019 00:57:09 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:57:18 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[23-Mar-2019 00:57:18 Asia/Tokyo] デバッグ：セッションID:maaq6ct5cmvbealdf4uu450jto4ve8vc
+[23-Mar-2019 00:57:18 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 00:57:18 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 23
+[23-Mar-2019 00:57:18 Asia/Tokyo] デバッグ：$dbEvent:Array
+(
+    [total] => 1
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [body] => サンプルテキストサンプルテキストサンプルテキスト
+                    [start_date] => 2019-03-22 05:00:00
+                    [end_time] => 08:00:00
+                    [limit_date] => 2019-03-20 09:00:00
+                    [user_id] => 2
+                    [update_date] => 2019-03-20 00:09:34
+                    [name] => 太郎
+                )
+
+        )
+
+)
+
+[23-Mar-2019 00:57:18 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[23-Mar-2019 00:57:18 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[23-Mar-2019 00:57:18 Asia/Tokyo] PHP Notice:  Undefined variable: dbDiary in /home/festina/fastina.xyz/public_html/eventindex.php on line 109
+[23-Mar-2019 01:06:07 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 01:06:07 Asia/Tokyo] デバッグ：セッションID:tf7j6capuaott329icg6h8ch5l50h26j
+[23-Mar-2019 01:06:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 01:06:10 Asia/Tokyo] デバッグ：<<<日記一覧ページ>>>
+[23-Mar-2019 01:06:10 Asia/Tokyo] デバッグ：セッションID:7u165uesvb80v48m2b139eht14kmgkts
+[23-Mar-2019 01:06:10 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 01:06:11 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 23
+[23-Mar-2019 01:06:11 Asia/Tokyo] デバッグ：$dbDiary:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:20:39
+                    [name] => raika
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [title] => テスト１
+                    [comment] => サンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:13:30
+                    [name] => raika
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 19:19:24
+                    [name] => raika
+                )
+
+        )
+
+)
+
+[23-Mar-2019 01:06:11 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[23-Mar-2019 01:06:11 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[23-Mar-2019 01:06:18 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[23-Mar-2019 01:06:18 Asia/Tokyo] デバッグ：セッションID:e6dep0sepsasgflp7nf0g9uboi9bv5ba
+[23-Mar-2019 01:06:18 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 01:06:18 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[23-Mar-2019 01:06:18 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[23-Mar-2019 03:54:30 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 03:54:30 Asia/Tokyo] デバッグ：セッションID:9vvaei0vfvshf5bn4vrq4mboed3pjt3m
+[23-Mar-2019 03:54:30 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 03:54:31 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[23-Mar-2019 03:54:31 Asia/Tokyo] デバッグ：セッションID:shbuin9sgnmhokrbe3lo3p4ub3g7vn7p
+[23-Mar-2019 03:54:31 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 03:54:31 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[23-Mar-2019 03:54:31 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[23-Mar-2019 03:54:31 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[23-Mar-2019 03:54:31 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[23-Mar-2019 03:54:31 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[23-Mar-2019 03:54:31 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[23-Mar-2019 03:54:31 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[23-Mar-2019 11:40:38 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 11:40:38 Asia/Tokyo] デバッグ：セッションID:2mghqtn0go4r1f6jtlkb4imnfua2iosr
+[23-Mar-2019 11:40:38 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 11:40:38 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 11:40:38 Asia/Tokyo] デバッグ：セッションID:2ti37k85hbvg4ij6cd8d22159tgabjec
+[23-Mar-2019 11:40:38 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 14:55:05 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 14:55:05 Asia/Tokyo] デバッグ：セッションID:8l46360mnqgavuefkqfvgst4r8a4v0nk
+[23-Mar-2019 14:55:05 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 14:59:42 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 14:59:42 Asia/Tokyo] デバッグ：セッションID:1t8i4mr8lp5eb4rgd5hhohn6u1i1ki1i
+[23-Mar-2019 14:59:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 16:57:26 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 16:57:26 Asia/Tokyo] デバッグ：セッションID:d21igk992ueu7ljqlmbj6brtrb9b7qcb
+[23-Mar-2019 16:57:26 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 17:05:13 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 17:05:13 Asia/Tokyo] デバッグ：セッションID:s69jm5ldh8en72tu6resunptcdt8r4qs
+[23-Mar-2019 17:05:13 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 18:51:30 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 18:51:30 Asia/Tokyo] デバッグ：セッションID:voivsh9huvi5ugtfau2itgko4li5am3k
+[23-Mar-2019 18:51:30 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 19:59:24 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 19:59:24 Asia/Tokyo] デバッグ：セッションID:e1cr0nlh6dq2uk65s6pb7rbqguojr4tb
+[23-Mar-2019 19:59:24 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 23:40:41 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 23:40:41 Asia/Tokyo] デバッグ：セッションID:lp1s3qtlil611maqjf4r80omnehm10i0
+[23-Mar-2019 23:40:41 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[23-Mar-2019 23:49:24 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[23-Mar-2019 23:49:24 Asia/Tokyo] デバッグ：セッションID:aag3u9olb9pk68buurvjhph53pkas0lm
+[23-Mar-2019 23:49:24 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:48:11 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 00:48:11 Asia/Tokyo] デバッグ：セッションID:9br2rqcb29jqri4sgne61r7vqmjtmpkv
+[24-Mar-2019 00:48:11 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:43 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 00:55:43 Asia/Tokyo] デバッグ：セッションID:5kg839kbscpptm9p9no31809me7kn4mh
+[24-Mar-2019 00:55:43 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:44 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 00:55:44 Asia/Tokyo] デバッグ：セッションID:19o0qtrfua3dilv6t6pp79dhvlff7hb1
+[24-Mar-2019 00:55:44 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：セッションID:scquln36veil655for2shtkitvt3qe7b
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：セッションID:5jjn8olfshansibih93eeb8hi7e4c4cr
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：セッションID:575ua2bu2utir1steb30rl5v2ag039ni
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：セッションID:cv00etgdsh2prd6vg520qe6g1vgo9h12
+[24-Mar-2019 00:55:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：セッションID:e68fuuss5qjtsagql3uhta5bqk12fffl
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Undefined index: i_id in /home/festina/fastina.xyz/public_html/info.php on line 7
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/info.php:7) in /home/festina/fastina.xyz/public_html/info.php on line 10
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Undefined variable: i_id in /home/festina/fastina.xyz/public_html/info.php on line 13
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：body:
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：セッションID:j8ao6phbmmgbga92muio47ve07f73hco
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：セッションID:iuhdcoe5t92rhdgt8bh6u8ce74t1ijpc
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Undefined index: i_id in /home/festina/fastina.xyz/public_html/info.php on line 7
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/info.php:7) in /home/festina/fastina.xyz/public_html/info.php on line 10
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Undefined variable: i_id in /home/festina/fastina.xyz/public_html/info.php on line 13
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：body:
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：セッションID:avbavct6bmtq0d1v6l2irplf4ovt6bgb
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：セッションID:bo7bremvobgia4k6ip7ijnvfv6e18gts
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:47 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：セッションID:mll8uii8lihivuj01m071k715ubasf0a
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:47 Asia/Tokyo] デバッグ：body:1/1〜1/3 サーバーメンテナンスを行います。
+作業に伴い、下記機能がご利用いただけません。
+　・日記投稿
+　・イベント投稿
+　・掲示板
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:tsaea5d4nf0f5283hmqnbos8mdao53p0
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:3srhsmjt3ptlfvgj0hc7q39gjcbdh4eq
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:j8d8duqvourgeldfa4825vghdsb6mv4l
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：body:1/1〜1/3 サーバーメンテナンスを行います。
+作業に伴い、下記機能がご利用いただけません。
+　・日記投稿
+　・イベント投稿
+　・掲示板
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:605fnphup9h2mvmjrfv082klsa9u6tc8
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:ppdkt6309p1hdiu92tda2rv1nec2an2f
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:77evghqoe7nfsghief98j6oj1as390bn
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<日記一覧ページ>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:4pdjmb07ck6b1m1p8sem67q82pmlrejc
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 23
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$dbDiary:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:20:39
+                    [name] => raika
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [title] => テスト１
+                    [comment] => サンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:13:30
+                    [name] => raika
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 19:19:24
+                    [name] => raika
+                )
+
+        )
+
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:58conak36ng0q7fhunkgin9jv8a3sl18
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<日記一覧ページ>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:drplpl7f9bo2gu0p880gbs5cphaija87
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 23
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$dbDiary:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:20:39
+                    [name] => raika
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [title] => テスト１
+                    [comment] => サンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:13:30
+                    [name] => raika
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 19:19:24
+                    [name] => raika
+                )
+
+        )
+
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：セッションID:8tkfc1c4b7rk1u70noev83hcuqo8o695
+[24-Mar-2019 00:55:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 00:55:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<イベント詳細>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：セッションID:ckgj6slpc7bb7p9748b9g4bnilu9n22u
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 24
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$DBA:Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [event_id] => 1
+            [name] => raika
+            [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [event_id] => 1
+            [name] => 太郎
+            [pic] => 
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 151
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 187
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：セッションID:5lmm68ugte535mdupn0b6q6ijc156ha4
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 23
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$dbEvent:Array
+(
+    [total] => 1
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [body] => サンプルテキストサンプルテキストサンプルテキスト
+                    [start_date] => 2019-03-22 05:00:00
+                    [end_time] => 08:00:00
+                    [limit_date] => 2019-03-20 09:00:00
+                    [user_id] => 2
+                    [update_date] => 2019-03-20 00:09:34
+                    [name] => 太郎
+                )
+
+        )
+
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined variable: dbDiary in /home/festina/fastina.xyz/public_html/eventindex.php on line 109
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<イベント詳細>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：セッションID:fjlobfuuildghe7t075b39dqqeap8fh7
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 24
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$DBA:Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [event_id] => 1
+            [name] => raika
+            [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [event_id] => 1
+            [name] => 太郎
+            [pic] => 
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 151
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 187
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：セッションID:rig0nglnt1d7jr4em9micv77lfjed8kd
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 23
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$dbEvent:Array
+(
+    [total] => 1
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [body] => サンプルテキストサンプルテキストサンプルテキスト
+                    [start_date] => 2019-03-22 05:00:00
+                    [end_time] => 08:00:00
+                    [limit_date] => 2019-03-20 09:00:00
+                    [user_id] => 2
+                    [update_date] => 2019-03-20 00:09:34
+                    [name] => 太郎
+                )
+
+        )
+
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 00:55:49 Asia/Tokyo] PHP Notice:  Undefined variable: dbDiary in /home/festina/fastina.xyz/public_html/eventindex.php on line 109
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<パスワードリマインダー>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：セッションID:2kngnlqilovjiq7dnaf15uqffkj4t8e4
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：セッションID:h0cbvmo3l9rn66n8a682rr1jjs6t7jek
+[24-Mar-2019 00:55:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<パスワードリマインダー>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:k87nevsq1fknq9rp6ja1e8g29njltkvq
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<マイイベント一覧>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:7c433krgdl649hdp4dqh7vm2cema05pe
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:l5sr03mrrhfsikco6256e590iqfg6297
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:qotpqdi5ijcoom2hnemkoj66scmfk74m
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:e26glgadj8hb4biq0f1p6f14t3e9ro7e
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:un1mojvnb2dst8pn8sce4q7rmhuicc4c
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:pmo1scphc6frglbp11l3e033pj31rb2e
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 00:55:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:ks154lep09rliikk66f6urp8b07l6v22
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:5t3od9htd6peecopa1b3brft1pesa269
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:4igqimqv8b5ejd871d8vvpdn2t5vdm6d
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 00:55:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：セッションID:2ccjeenao90611sbn2eik1tubco0ndag
+[24-Mar-2019 00:55:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:51 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 00:55:51 Asia/Tokyo] デバッグ：セッションID:b88gt8r7v39k5gra5l5o6koct992ffte
+[24-Mar-2019 00:55:51 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 00:55:51 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 00:55:51 Asia/Tokyo] デバッグ：セッションID:6ge1p82kuu8vqeuutghu48d2lbkrtf8h
+[24-Mar-2019 00:55:51 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:42 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 03:24:42 Asia/Tokyo] デバッグ：セッションID:c3iulrk8k7508j9ke03nnhhh94cohe3h
+[24-Mar-2019 03:24:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:45 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 03:24:45 Asia/Tokyo] デバッグ：セッションID:r8h1pfk5hr9hfovtjo2hj4qf0j80a94a
+[24-Mar-2019 03:24:45 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:46 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 03:24:46 Asia/Tokyo] デバッグ：セッションID:s460h1ve0j9l1tk8tvqv68rto376vohh
+[24-Mar-2019 03:24:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:46 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 03:24:46 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 03:24:46 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 03:24:46 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 03:24:46 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 03:24:46 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 03:24:46 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 03:24:48 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 03:24:48 Asia/Tokyo] デバッグ：セッションID:s23nl4guhqgfarrfca5quderod2m22g6
+[24-Mar-2019 03:24:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:49 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 03:24:49 Asia/Tokyo] デバッグ：セッションID:1aug74vcejkduvh4dr2mu5ef4qplm9tp
+[24-Mar-2019 03:24:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 03:24:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 03:24:50 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 03:24:50 Asia/Tokyo] デバッグ：セッションID:qqipis2g0otm3fanrq5os23cj7ho3832
+[24-Mar-2019 03:24:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:52 Asia/Tokyo] デバッグ：<<<イベント詳細>>>
+[24-Mar-2019 03:24:52 Asia/Tokyo] デバッグ：セッションID:93fltpiv1be0np1l7dfqof5dd4v4jjpn
+[24-Mar-2019 03:24:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:52 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 03:24:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 24
+[24-Mar-2019 03:24:52 Asia/Tokyo] デバッグ：$DBA:Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [event_id] => 1
+            [name] => raika
+            [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [event_id] => 1
+            [name] => 太郎
+            [pic] => 
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+)
+
+[24-Mar-2019 03:24:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 151
+[24-Mar-2019 03:24:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 187
+[24-Mar-2019 03:24:55 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 03:24:55 Asia/Tokyo] デバッグ：セッションID:h508p142bvmk2nfch1h7qag6ab4r0d7g
+[24-Mar-2019 03:24:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 03:24:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 03:24:57 Asia/Tokyo] デバッグ：<<<日記一覧ページ>>>
+[24-Mar-2019 03:24:57 Asia/Tokyo] デバッグ：セッションID:q3p9bqcscmn1gtmdi2i0d80tj4hk0ptn
+[24-Mar-2019 03:24:57 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:57 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 23
+[24-Mar-2019 03:24:57 Asia/Tokyo] デバッグ：$dbDiary:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:20:39
+                    [name] => raika
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [title] => テスト１
+                    [comment] => サンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:13:30
+                    [name] => raika
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 19:19:24
+                    [name] => raika
+                )
+
+        )
+
+)
+
+[24-Mar-2019 03:24:57 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 03:24:57 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 03:24:58 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 03:24:58 Asia/Tokyo] デバッグ：セッションID:1pa0suqo6bbc0t7qsbh6779ujd799ofh
+[24-Mar-2019 03:24:58 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:58 Asia/Tokyo] PHP Notice:  Undefined index: i_id in /home/festina/fastina.xyz/public_html/info.php on line 7
+[24-Mar-2019 03:24:58 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/info.php:7) in /home/festina/fastina.xyz/public_html/info.php on line 10
+[24-Mar-2019 03:24:58 Asia/Tokyo] PHP Notice:  Undefined variable: i_id in /home/festina/fastina.xyz/public_html/info.php on line 13
+[24-Mar-2019 03:24:58 Asia/Tokyo] デバッグ：body:
+[24-Mar-2019 03:24:59 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 03:24:59 Asia/Tokyo] デバッグ：セッションID:ea8b1k49psqknhs2ed5gu9fmku6gcjpq
+[24-Mar-2019 03:24:59 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 03:24:59 Asia/Tokyo] デバッグ：body:1/1〜1/3 サーバーメンテナンスを行います。
+作業に伴い、下記機能がご利用いただけません。
+　・日記投稿
+　・イベント投稿
+　・掲示板
+[24-Mar-2019 03:25:01 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 03:25:01 Asia/Tokyo] デバッグ：セッションID:lgthscvih36f1pra6thjaog5966ufml8
+[24-Mar-2019 03:25:01 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 04:48:48 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 04:48:48 Asia/Tokyo] デバッグ：セッションID:6sv8it4ev5g051coiabf06oav8j5jm13
+[24-Mar-2019 04:48:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 04:59:30 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 04:59:30 Asia/Tokyo] デバッグ：セッションID:e5f976p01vupardcqck3h7rm9lbm4tc6
+[24-Mar-2019 04:59:30 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:39 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 05:13:39 Asia/Tokyo] デバッグ：セッションID:3h2422ked3i1oudn4p4fb71vsnnip57m
+[24-Mar-2019 05:13:39 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:39 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 05:13:39 Asia/Tokyo] デバッグ：セッションID:6irnnami2povo5ct9up5ipcesunagdu2
+[24-Mar-2019 05:13:39 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：セッションID:a005g72iv980deim6lmrpu6k5v0gud05
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：セッションID:fk63e0kmhc9khq19jhe9tdcf1fgdjijn
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：セッションID:cge3fukj77eg0sloppqna98cvi240obt
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：セッションID:e72ji29a4asat4l2211k5rpaigh745vt
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：セッションID:jn5js15k4t9kbp2r00u8uts4s75b6s37
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:52 Asia/Tokyo] PHP Notice:  Undefined index: i_id in /home/festina/fastina.xyz/public_html/info.php on line 7
+[24-Mar-2019 05:13:52 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/info.php:7) in /home/festina/fastina.xyz/public_html/info.php on line 10
+[24-Mar-2019 05:13:52 Asia/Tokyo] PHP Notice:  Undefined variable: i_id in /home/festina/fastina.xyz/public_html/info.php on line 13
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：body:
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：セッションID:s1hl1dlubu7c9kmeq7id959r5e6jo71o
+[24-Mar-2019 05:13:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:10lu29mk078bnrtqemjll3h7svre0vdt
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Undefined index: i_id in /home/festina/fastina.xyz/public_html/info.php on line 7
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/info.php:7) in /home/festina/fastina.xyz/public_html/info.php on line 10
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Undefined variable: i_id in /home/festina/fastina.xyz/public_html/info.php on line 13
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：body:
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:m2iko1m4f0hh35hurfdad1hdmg7d2932
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:cql40i1uml4i3nrp0dt2bmbpdo555van
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：body:1/1〜1/3 サーバーメンテナンスを行います。
+作業に伴い、下記機能がご利用いただけません。
+　・日記投稿
+　・イベント投稿
+　・掲示板
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:nl4bmcqds2d1k78t86m4qtghduv901og
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:bhf8qoho0k9cqp6tn89qbnfaaimu98gt
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：body:1/1〜1/3 サーバーメンテナンスを行います。
+作業に伴い、下記機能がご利用いただけません。
+　・日記投稿
+　・イベント投稿
+　・掲示板
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:djiftvnkhd3rpkeeho5ooj7fjfs4psv1
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:7fkcvif57ftg1kvp6n6it3c2en4k90m6
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 05:13:53 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：セッションID:q5318vqfcd5orhgjgq5llip5eamgc43u
+[24-Mar-2019 05:13:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：セッションID:eauvbgai71lo677vefcodlvc74fptslo
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：セッションID:ic1b497710uomfohhdegc5c1uqrk5u4m
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：<<<日記一覧ページ>>>
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：セッションID:uols1cl9c95n5598m2ou6qbffp1r6h9e
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 23
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：$dbDiary:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:20:39
+                    [name] => raika
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [title] => テスト１
+                    [comment] => サンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:13:30
+                    [name] => raika
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 19:19:24
+                    [name] => raika
+                )
+
+        )
+
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：セッションID:n9s4eiv8nbhrmniptek4thlvgsl2ciqp
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：<<<日記一覧ページ>>>
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：セッションID:ktct8am519mf4gbjd4h9n00vtn733n0n
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 23
+[24-Mar-2019 05:13:54 Asia/Tokyo] デバッグ：$dbDiary:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:20:39
+                    [name] => raika
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [title] => テスト１
+                    [comment] => サンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:13:30
+                    [name] => raika
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 19:19:24
+                    [name] => raika
+                )
+
+        )
+
+)
+
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 05:13:54 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<イベント詳細>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：セッションID:tdbpumon6rd065omr89iv1v5jb2n75vk
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 24
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$DBA:Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [event_id] => 1
+            [name] => raika
+            [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [event_id] => 1
+            [name] => 太郎
+            [pic] => 
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 151
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 187
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：セッションID:i6crolqbllk0luts6b4nl9p1nd9agter
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 23
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$dbEvent:Array
+(
+    [total] => 1
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [body] => サンプルテキストサンプルテキストサンプルテキスト
+                    [start_date] => 2019-03-22 05:00:00
+                    [end_time] => 08:00:00
+                    [limit_date] => 2019-03-20 09:00:00
+                    [user_id] => 2
+                    [update_date] => 2019-03-20 00:09:34
+                    [name] => 太郎
+                )
+
+        )
+
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined variable: dbDiary in /home/festina/fastina.xyz/public_html/eventindex.php on line 109
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<イベント詳細>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：セッションID:23gm8il1u1qeml4cphv986vnmorlhg6r
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 24
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$DBA:Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [event_id] => 1
+            [name] => raika
+            [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [event_id] => 1
+            [name] => 太郎
+            [pic] => 
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 151
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 187
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：セッションID:3cetfnch3ctgf38kcah35c6g8bc23ffa
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 23
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$dbEvent:Array
+(
+    [total] => 1
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [body] => サンプルテキストサンプルテキストサンプルテキスト
+                    [start_date] => 2019-03-22 05:00:00
+                    [end_time] => 08:00:00
+                    [limit_date] => 2019-03-20 09:00:00
+                    [user_id] => 2
+                    [update_date] => 2019-03-20 00:09:34
+                    [name] => 太郎
+                )
+
+        )
+
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined variable: dbDiary in /home/festina/fastina.xyz/public_html/eventindex.php on line 109
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：セッションID:8ueg4g3h2ap34879ri9ntggf73n429vm
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 05:13:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<パスワードリマインダー>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：セッションID:vrp00l26626orl9rpaifp447ismttqsf
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:55 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<パスワードリマインダー>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:p2288u4n6vl7ma01iu71c0frfovu90fr
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:i470a4nrofjca63ng725cc5cocfvlgba
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<マイイベント一覧>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:bmtioaiqm1gcoc6tc92pkkklq8hd535p
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:0i0kloqkngcv5erpqg1b0dt9e0v9unsi
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:subrgcu8h2b9beiocvsgs3i57hnh9lrs
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:uf0hr615ek66aj5h72dcilg14vuett6k
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:c24itjggccevkh1k0ccrvp7eu14gpqbm
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 05:13:56 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:0c6u89qi2e2pe8i1sdpjlsuuct6b75qg
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:pjbv6cs4gatovtc61gaskqdjut4o01i5
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:56 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 05:13:56 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：セッションID:q0h9l612o3gpqeklg7lspjgi168ifir3
+[24-Mar-2019 05:13:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：セッションID:rdo4fvfp1pn4n6f4okdqeg3radauml4n
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：セッションID:o58q9j43osu60fr57iude6lr3klja6u3
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：セッションID:mo9nemdvscp8k78q6jt3013p6chjlujp
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：セッションID:0m72u2u2ki9r7581lc2pppmabnfl1tlm
+[24-Mar-2019 05:13:57 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 05:18:27 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 05:18:27 Asia/Tokyo] デバッグ：セッションID:ffvbudd58f0713t9t1h0rcklfvghgisq
+[24-Mar-2019 05:18:27 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 06:16:41 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 06:16:41 Asia/Tokyo] デバッグ：セッションID:giij03r053mii2o9krhrbc66e35h2591
+[24-Mar-2019 06:16:41 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 10:21:13 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 10:21:13 Asia/Tokyo] デバッグ：セッションID:eqs6n8mus9si191ik34tl7dt3esmkjrr
+[24-Mar-2019 10:21:13 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 10:21:14 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 10:21:14 Asia/Tokyo] デバッグ：セッションID:ago3j94kohir7u0jhjpibueud5jho61v
+[24-Mar-2019 10:21:14 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 11:15:13 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 11:15:13 Asia/Tokyo] デバッグ：セッションID:0mc4qr120n7q7hoeivljcjgiv64v3kms
+[24-Mar-2019 11:15:13 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 11:15:21 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 11:15:21 Asia/Tokyo] デバッグ：セッションID:losmfc3u006s8j9j5c3mf62h1g4kgv0a
+[24-Mar-2019 11:15:21 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:24:51 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 12:24:51 Asia/Tokyo] デバッグ：セッションID:09sk12pki2feof8covel2lpkiboobdhs
+[24-Mar-2019 12:24:51 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:24:59 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 12:24:59 Asia/Tokyo] デバッグ：セッションID:uqajkb8ts7h504nr21n8o7pms2h6o52d
+[24-Mar-2019 12:24:59 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:24:59 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 12:24:59 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 12:25:02 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 12:25:02 Asia/Tokyo] デバッグ：セッションID:jsh1nb2hke5k09vptdkjcrmqf2q9vsee
+[24-Mar-2019 12:25:02 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:25:04 Asia/Tokyo] デバッグ：<<<日記一覧ページ>>>
+[24-Mar-2019 12:25:04 Asia/Tokyo] デバッグ：セッションID:qh7js25sptorq6erblq2fhlc9gfbjeqr
+[24-Mar-2019 12:25:04 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:25:04 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 23
+[24-Mar-2019 12:25:04 Asia/Tokyo] デバッグ：$dbDiary:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:20:39
+                    [name] => raika
+                )
+
+            [1] => Array
+                (
+                    [id] => 3
+                    [title] => テスト１
+                    [comment] => サンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 23:13:30
+                    [name] => raika
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [title] => テスト１
+                    [comment] => サンプルテキストサンプルテキスト
+                    [user_id] => 1
+                    [update_date] => 2019-03-15 19:19:24
+                    [name] => raika
+                )
+
+        )
+
+)
+
+[24-Mar-2019 12:25:04 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 12:25:04 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/diaryindex.php on line 69
+[24-Mar-2019 12:25:13 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 12:25:13 Asia/Tokyo] デバッグ：セッションID:1gpkjmh93q2h1jj8hkvloe64ubf4gnid
+[24-Mar-2019 12:25:13 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:25:13 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 12:25:13 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 12:26:30 Asia/Tokyo] デバッグ：<<<マイイベント一覧>>>
+[24-Mar-2019 12:26:30 Asia/Tokyo] デバッグ：セッションID:0jktfqtpcupnn58i7oko7i81tjncbrp7
+[24-Mar-2019 12:26:30 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:30 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 12:26:30 Asia/Tokyo] デバッグ：セッションID:v4kkpoaem612g96l5lthkd3p1aktmked
+[24-Mar-2019 12:26:30 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:37 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 12:26:37 Asia/Tokyo] デバッグ：セッションID:sa40ia6827taakcbkojh2v5d0h0poemj
+[24-Mar-2019 12:26:37 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:37 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 12:26:37 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 12:26:39 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 12:26:39 Asia/Tokyo] デバッグ：セッションID:firiq9fgbsehjjqfp04gj6c44d3utnsh
+[24-Mar-2019 12:26:39 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:42 Asia/Tokyo] デバッグ：<<<マイイベント一覧>>>
+[24-Mar-2019 12:26:42 Asia/Tokyo] デバッグ：セッションID:gqq5anuramk07b0q6b7rafo2g5hnagit
+[24-Mar-2019 12:26:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:42 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 12:26:42 Asia/Tokyo] デバッグ：セッションID:m8mocra37s6m51u23k47vdv1np995bc7
+[24-Mar-2019 12:26:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:44 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 12:26:44 Asia/Tokyo] デバッグ：セッションID:aj1q4lnh98lgtsfp2a5if5eh40fi8fff
+[24-Mar-2019 12:26:44 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:45 Asia/Tokyo] デバッグ：<<<プロフィール>>>
+[24-Mar-2019 12:26:45 Asia/Tokyo] デバッグ：セッションID:8aq48uiq5cs1e54p0nujedrnv8gl5gn4
+[24-Mar-2019 12:26:45 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:47 Asia/Tokyo] デバッグ：<<<日記一覧>>>
+[24-Mar-2019 12:26:47 Asia/Tokyo] デバッグ：セッションID:o8n5282k6frm2nn59s3vkl9j4oheaobr
+[24-Mar-2019 12:26:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:49 Asia/Tokyo] デバッグ：<<<日記詳細>>>
+[24-Mar-2019 12:26:49 Asia/Tokyo] デバッグ：セッションID:8qoqbff98m955j2hc9eicguva3irbf13
+[24-Mar-2019 12:26:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 140
+[24-Mar-2019 12:26:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/diary.php on line 169
+[24-Mar-2019 12:26:55 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 12:26:55 Asia/Tokyo] デバッグ：セッションID:otvvj1at38rf1l5ttj6lvhq24bidctom
+[24-Mar-2019 12:26:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:57 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 12:26:57 Asia/Tokyo] デバッグ：セッションID:l8j5k09h2qokhagglgnl43utqsd4utn4
+[24-Mar-2019 12:26:57 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:57 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 23
+[24-Mar-2019 12:26:57 Asia/Tokyo] デバッグ：$dbEvent:Array
+(
+    [total] => 1
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [title] => テスト１
+                    [body] => サンプルテキストサンプルテキストサンプルテキスト
+                    [start_date] => 2019-03-22 05:00:00
+                    [end_time] => 08:00:00
+                    [limit_date] => 2019-03-20 09:00:00
+                    [user_id] => 2
+                    [update_date] => 2019-03-20 00:09:34
+                    [name] => 太郎
+                )
+
+        )
+
+)
+
+[24-Mar-2019 12:26:57 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 12:26:57 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/eventindex.php on line 69
+[24-Mar-2019 12:26:57 Asia/Tokyo] PHP Notice:  Undefined variable: dbDiary in /home/festina/fastina.xyz/public_html/eventindex.php on line 109
+[24-Mar-2019 12:26:59 Asia/Tokyo] デバッグ：<<<イベント詳細>>>
+[24-Mar-2019 12:26:59 Asia/Tokyo] デバッグ：セッションID:il9ams8lr8hfu0nnvc5qvhd8t3hs58eo
+[24-Mar-2019 12:26:59 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:26:59 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 12:26:59 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 24
+[24-Mar-2019 12:26:59 Asia/Tokyo] デバッグ：$DBA:Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [event_id] => 1
+            [name] => raika
+            [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [event_id] => 1
+            [name] => 太郎
+            [pic] => 
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+)
+
+[24-Mar-2019 12:26:59 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 151
+[24-Mar-2019 12:26:59 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/event.php on line 187
+[24-Mar-2019 12:37:28 Asia/Tokyo] デバッグ：<<<イベント詳細>>>
+[24-Mar-2019 12:37:28 Asia/Tokyo] デバッグ：セッションID:fl6ua6kmdl8ph6l7io0fagh0etghi35j
+[24-Mar-2019 12:37:28 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:37:28 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 12:37:28 Asia/Tokyo] デバッグ：$DBA:Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [event_id] => 1
+            [name] => raika
+            [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [event_id] => 1
+            [name] => 太郎
+            [pic] => 
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [event_id] => 1
+            [name] => 
+            [pic] => 
+        )
+
+)
+
+[24-Mar-2019 12:44:43 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 12:44:43 Asia/Tokyo] デバッグ：セッションID:o3l6ssf45l0qfbp9q00vi6n8ou203ka0
+[24-Mar-2019 12:44:43 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 12:44:46 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 12:45:35 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 12:45:35 Asia/Tokyo] デバッグ：post:Array
+(
+    [email] => guest@guest.com
+    [name] => ゲストアカウント
+    [pass] => guest
+    [pass-re] => guest
+)
+
+[24-Mar-2019 12:45:49 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 12:45:49 Asia/Tokyo] デバッグ：post:Array
+(
+    [email] => guest@guest.com
+    [name] => ゲストアカウント
+    [pass] => passro-d
+    [pass-re] => password
+)
+
+[24-Mar-2019 12:46:02 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 12:46:02 Asia/Tokyo] デバッグ：post:Array
+(
+    [email] => guest@guest.com
+    [name] => ゲストアカウント
+    [pass] => password
+    [pass-re] => password
+)
+
+[24-Mar-2019 12:46:03 Asia/Tokyo] デバッグ：<<<ユーザー登録確認画面>>>
+[24-Mar-2019 12:46:03 Asia/Tokyo] デバッグ：セッションID:br63gesskqcv9c6sjkr40e9bi8pcfkq4
+[24-Mar-2019 12:46:03 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [pass] => password
+)
+
+[24-Mar-2019 12:46:03 Asia/Tokyo] PHP Notice:  Undefined index: back in /home/festina/fastina.xyz/public_html/signupCheck.php on line 12
+[24-Mar-2019 12:46:09 Asia/Tokyo] デバッグ：<<<ユーザー登録確認画面>>>
+[24-Mar-2019 12:46:09 Asia/Tokyo] デバッグ：セッションID:a3du0i79mf5bbndmjjj8fj8jqt7qfr6h
+[24-Mar-2019 12:46:09 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [pass] => password
+)
+
+[24-Mar-2019 12:46:09 Asia/Tokyo] PHP Notice:  Undefined index: back in /home/festina/fastina.xyz/public_html/signupCheck.php on line 12
+[24-Mar-2019 12:46:09 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/signupCheck.php:12) in /home/festina/fastina.xyz/public_html/signupCheck.php on line 27
+[24-Mar-2019 12:49:35 Asia/Tokyo] デバッグ：<<<ユーザー登録確認画面>>>
+[24-Mar-2019 12:49:35 Asia/Tokyo] デバッグ：セッションID:ajuis3hgcfhr6i34c5ih89oab5cubqit
+[24-Mar-2019 12:49:35 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399169
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:49:35 Asia/Tokyo] PHP Notice:  Undefined variable: email in /home/festina/fastina.xyz/public_html/signupCheck.php on line 65
+[24-Mar-2019 12:49:35 Asia/Tokyo] PHP Notice:  Undefined variable: name in /home/festina/fastina.xyz/public_html/signupCheck.php on line 69
+[24-Mar-2019 12:49:42 Asia/Tokyo] デバッグ：<<<ユーザー登録確認画面>>>
+[24-Mar-2019 12:49:42 Asia/Tokyo] デバッグ：セッションID:lpfrog9jaisk5ifre24ubh0d6cegs106
+[24-Mar-2019 12:49:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399169
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:49:42 Asia/Tokyo] PHP Notice:  Undefined variable: email in /home/festina/fastina.xyz/public_html/signupCheck.php on line 65
+[24-Mar-2019 12:49:42 Asia/Tokyo] PHP Notice:  Undefined variable: name in /home/festina/fastina.xyz/public_html/signupCheck.php on line 69
+[24-Mar-2019 12:49:44 Asia/Tokyo] デバッグ：<<<ユーザー登録確認画面>>>
+[24-Mar-2019 12:49:44 Asia/Tokyo] デバッグ：セッションID:iumg8o0nntpedkj6dlseedslm970furb
+[24-Mar-2019 12:49:44 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399169
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:49:44 Asia/Tokyo] PHP Notice:  Undefined variable: email in /home/festina/fastina.xyz/public_html/signupCheck.php on line 65
+[24-Mar-2019 12:49:44 Asia/Tokyo] PHP Notice:  Undefined variable: name in /home/festina/fastina.xyz/public_html/signupCheck.php on line 69
+[24-Mar-2019 12:49:47 Asia/Tokyo] デバッグ：<<<ユーザー登録確認画面>>>
+[24-Mar-2019 12:49:47 Asia/Tokyo] デバッグ：セッションID:q5bocd2aftd7msbosirfbj306tc7d94j
+[24-Mar-2019 12:49:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399169
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:49:47 Asia/Tokyo] PHP Notice:  Undefined variable: email in /home/festina/fastina.xyz/public_html/signupCheck.php on line 65
+[24-Mar-2019 12:49:47 Asia/Tokyo] PHP Notice:  Undefined variable: name in /home/festina/fastina.xyz/public_html/signupCheck.php on line 69
+[24-Mar-2019 12:50:21 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 12:50:54 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 12:51:16 Asia/Tokyo] デバッグ：<<<ユーザー登録画面>>>
+[24-Mar-2019 12:51:16 Asia/Tokyo] デバッグ：post:Array
+(
+    [email] => guest@guest.com
+    [name] => ゲストアカウント
+    [pass] => password
+    [pass-re] => password
+)
+
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：セッションID:lt5o2avlai4en7glrbote8c0bhd0pego
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399169
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：セッションID:8im1iq3j4o0f474d62qob8bmmnar6eg0
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:25 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 12:51:26 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 12:51:26 Asia/Tokyo] デバッグ：セッションID:htmj9m669po0ua0d5hje3l62vcgnb56m
+[24-Mar-2019 12:51:26 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:26 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 12:51:26 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:26 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:26 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:26 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:26 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:26 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:30 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 12:51:30 Asia/Tokyo] デバッグ：セッションID:g5m2rp4oouq6gm6767441b1a91rjmfv0
+[24-Mar-2019 12:51:30 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:30 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 12:51:30 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:30 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:30 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:30 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:30 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:30 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:33 Asia/Tokyo] デバッグ：<<<お問い合わせページ>>>
+[24-Mar-2019 12:51:33 Asia/Tokyo] デバッグ：セッションID:kl37fb6bvo99rtie4q77p9h26euqjsn7
+[24-Mar-2019 12:51:33 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:33 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 96
+[24-Mar-2019 12:51:33 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:33 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:33 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:33 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:33 Asia/Tokyo] PHP Notice:  Use of undefined constant getFormdata - assumed 'getFormdata' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:33 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /home/festina/fastina.xyz/public_html/contact.php on line 100
+[24-Mar-2019 12:51:34 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 12:51:34 Asia/Tokyo] デバッグ：セッションID:feomi6rlnsu2ukof98760i7tghk0varr
+[24-Mar-2019 12:51:34 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:35 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 12:51:35 Asia/Tokyo] デバッグ：セッションID:t19b2s5td4g84fhb9qkru05m1lfq4b6k
+[24-Mar-2019 12:51:35 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:35 Asia/Tokyo] PHP Notice:  Undefined index: i_id in /home/festina/fastina.xyz/public_html/info.php on line 7
+[24-Mar-2019 12:51:35 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/info.php:7) in /home/festina/fastina.xyz/public_html/info.php on line 10
+[24-Mar-2019 12:51:35 Asia/Tokyo] PHP Notice:  Undefined variable: i_id in /home/festina/fastina.xyz/public_html/info.php on line 13
+[24-Mar-2019 12:51:35 Asia/Tokyo] デバッグ：body:
+[24-Mar-2019 12:51:44 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 12:51:44 Asia/Tokyo] デバッグ：セッションID:c3t66nu4fdtfpk4pt537ob7ge39tbd8g
+[24-Mar-2019 12:51:44 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:47 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 12:51:47 Asia/Tokyo] デバッグ：セッションID:8h3hp5osrrhicuje4ifpjbp1167rncvb
+[24-Mar-2019 12:51:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:51:47 Asia/Tokyo] PHP Notice:  Undefined index: i_id in /home/festina/fastina.xyz/public_html/info.php on line 7
+[24-Mar-2019 12:51:47 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/info.php:7) in /home/festina/fastina.xyz/public_html/info.php on line 10
+[24-Mar-2019 12:51:47 Asia/Tokyo] PHP Notice:  Undefined variable: i_id in /home/festina/fastina.xyz/public_html/info.php on line 13
+[24-Mar-2019 12:51:47 Asia/Tokyo] デバッグ：body:
+[24-Mar-2019 12:51:52 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 12:51:52 Asia/Tokyo] デバッグ：セッションID:4mgv0snub3imvfhmag1q6u1fvf5plujr
+[24-Mar-2019 12:51:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:52:42 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 12:52:42 Asia/Tokyo] デバッグ：セッションID:f4ubgl3vkbs9ehum7rani5s03dr0i0ao
+[24-Mar-2019 12:52:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:52:44 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 12:52:44 Asia/Tokyo] デバッグ：セッションID:9pgjuf0gaoebqrmfqlfj53p9cv6fmqlj
+[24-Mar-2019 12:52:44 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:52:47 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 12:52:47 Asia/Tokyo] デバッグ：セッションID:p1vbjfduo499q365dnbpfqpkvqdiq6bb
+[24-Mar-2019 12:52:47 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:52:49 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 12:52:49 Asia/Tokyo] デバッグ：セッションID:nd12va0i4rg37176oe5le9t7ogsp4r3l
+[24-Mar-2019 12:52:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：セッションID:a2rtf8hq8eejv6geet9hofu0qcj33i23
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399485
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：セッションID:84cg72ltnp2q43fqi430d3gsqhk0qmar
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399587
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:53:07 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 12:53:54 Asia/Tokyo] デバッグ：<<<ToDoページ>>>
+[24-Mar-2019 12:53:54 Asia/Tokyo] デバッグ：セッションID:32ri4omgckpgdutd20sini6dusraplik
+[24-Mar-2019 12:53:54 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399587
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:53:54 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 12:53:58 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 12:53:58 Asia/Tokyo] デバッグ：セッションID:a1kmbrun1e1f3hubhj0nssu1f84a5tvc
+[24-Mar-2019 12:53:58 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399634
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:53:58 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 12:58:03 Asia/Tokyo] デバッグ：<<<ToDoページ>>>
+[24-Mar-2019 12:58:03 Asia/Tokyo] デバッグ：セッションID:s0ajvvi8qcncsftm01975rktun6k2uol
+[24-Mar-2019 12:58:03 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399638
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 12:58:03 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:01:03 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 13:01:03 Asia/Tokyo] デバッグ：セッションID:iv4o722h2mbs6jmqjm1ujud140n9kc7g
+[24-Mar-2019 13:01:03 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553399883
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:01:03 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:01:03 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 13:01:04 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 13:01:04 Asia/Tokyo] デバッグ：セッションID:j2f4hqja3hg1nanniqj9gqolhclnltlt
+[24-Mar-2019 13:01:04 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400063
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:01:04 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:01:32 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 13:01:32 Asia/Tokyo] デバッグ：セッションID:946r06e6hqfd55sk2jgoqkmumlofauva
+[24-Mar-2019 13:01:32 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400064
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:01:32 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:01:34 Asia/Tokyo] デバッグ：<<<ToDoページ>>>
+[24-Mar-2019 13:01:34 Asia/Tokyo] デバッグ：セッションID:nsmnjvljq9nqmn003eobo55v1rjnavcm
+[24-Mar-2019 13:01:34 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400092
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:01:34 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：セッションID:uaeo524sqvht2ncfr5o3af1pjst81kpc
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400094
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：セッションID:s52btmkmgs7tk051kc9somhff9ig46h8
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:01:40 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:16:31 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 13:16:31 Asia/Tokyo] デバッグ：セッションID:q538ihmqbsffn7n8lbumu4grsv4g4joi
+[24-Mar-2019 13:16:31 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:37:12 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 13:37:12 Asia/Tokyo] デバッグ：セッションID:o7taipi9ohpaf3gsmqtb84qqsutfg67i
+[24-Mar-2019 13:37:12 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:37:18 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 13:37:18 Asia/Tokyo] デバッグ：セッションID:m1fm1e1bq7ieidp59r87ak5qhbo15hb9
+[24-Mar-2019 13:37:18 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:37:22 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 13:37:22 Asia/Tokyo] デバッグ：セッションID:eoidgrnrek76hlgv6d1gd2v9na5a9mad
+[24-Mar-2019 13:37:22 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:37:23 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 13:37:23 Asia/Tokyo] デバッグ：セッションID:der34mlae2kl522cv0bkogk76gjlq5sf
+[24-Mar-2019 13:37:23 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:37:24 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 13:37:24 Asia/Tokyo] デバッグ：セッションID:hblh8bs1f7buhd38jme1iu0mvij81c4f
+[24-Mar-2019 13:37:24 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:37:25 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 13:37:25 Asia/Tokyo] デバッグ：セッションID:nk3q659t9om16nvs8302ha3germq84pb
+[24-Mar-2019 13:37:25 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:49:40 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 13:49:40 Asia/Tokyo] デバッグ：セッションID:52is48ecdd0qq8ghrqn7lrn7vs8jl25i
+[24-Mar-2019 13:49:40 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：セッションID:ov95m7a64ucnsvv1ebblte9vk5pr4idc
+[24-Mar-2019 13:49:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：セッションID:iie37bf0o2korn5fhbig30c8q7eurvlv
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553400100
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：セッションID:takhjd9c0r8kiqonejlc0neo147j0bbh
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403007
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:50:07 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:50:08 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 13:50:08 Asia/Tokyo] デバッグ：セッションID:2tq8rq4435rftalk88i1o58mg3b19t5t
+[24-Mar-2019 13:50:08 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403007
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:50:08 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:50:08 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 13:50:24 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 13:50:24 Asia/Tokyo] デバッグ：セッションID:si3nq95b01bpoesn8oq0i9gk1cfid22u
+[24-Mar-2019 13:50:24 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403008
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:50:24 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:50:24 Asia/Tokyo] デバッグ：POST:Array
+(
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 
+    [comment] =>  
+    [pic] => 
+)
+
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：セッションID:roask6b3amprdhc8vu6us5trqb2q5fgf
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403024
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：POST:Array
+(
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 30
+    [lang] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [comment] =>   ゲストアカウントです。
+    [pic] => 
+)
+
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：<<<プロフィール編集確認ページ>>>
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：セッションID:hv7dpb3jccv1f9fv6pjfd3545793g1ga
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403137
+    [login_limit] => 86400
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 30
+    [lang] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [comment] =>   ゲストアカウントです。
+    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+)
+
+[24-Mar-2019 13:52:17 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:52:17 Asia/Tokyo] PHP Notice:  Undefined index: back in /home/festina/fastina.xyz/public_html/profileCheck.php on line 20
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：<<<プロフィール編集確認ページ>>>
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：セッションID:tlgfbqq9caovd1bvgt3eeo8rg1h8e37t
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403137
+    [login_limit] => 86400
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 30
+    [lang] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [comment] =>   ゲストアカウントです。
+    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+)
+
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：セッションID:30mmdd68dbhl6dqsvkch3nh14keqln9r
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403144
+    [login_limit] => 86400
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 30
+    [lang] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [comment] =>   ゲストアカウントです。
+    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+)
+
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:52:24 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：セッションID:m1lf7g22rnpelcsd4i0h4koa9qd05n7k
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403144
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：POST:Array
+(
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 30
+    [lang] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [comment] =>   ゲストアカウントです。 
+    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+)
+
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：<<<プロフィール編集確認ページ>>>
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：セッションID:pn5i65c8srkiglb1vd1io0e3m6du6q5c
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403147
+    [login_limit] => 86400
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 30
+    [lang] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [comment] =>   ゲストアカウントです。 
+    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+)
+
+[24-Mar-2019 13:52:27 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:52:27 Asia/Tokyo] PHP Notice:  Undefined index: back in /home/festina/fastina.xyz/public_html/profileCheck.php on line 20
+[24-Mar-2019 13:52:30 Asia/Tokyo] デバッグ：<<<プロフィール編集確認ページ>>>
+[24-Mar-2019 13:52:30 Asia/Tokyo] デバッグ：セッションID:mjcilak138f7d84bt5epmjjvmro36c6r
+[24-Mar-2019 13:52:30 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403147
+    [login_limit] => 86400
+    [name] => ゲストアカウント
+    [email] => guest@guest.com
+    [age] => 30
+    [lang] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [comment] =>   ゲストアカウントです。 
+    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+)
+
+[24-Mar-2019 13:52:30 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:52:30 Asia/Tokyo] PHP Notice:  Undefined index: back in /home/festina/fastina.xyz/public_html/profileCheck.php on line 20
+[24-Mar-2019 13:52:30 Asia/Tokyo] デバッグ：成功
+[24-Mar-2019 13:52:30 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/festina/fastina.xyz/public_html/profileCheck.php:20) in /home/festina/fastina.xyz/public_html/profileCheck.php on line 33
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：<<<プロフィール編集確認ページ>>>
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：セッションID:htnidf6dbo31brvtsvf2bj945ec8f956
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403150
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:56:48 Asia/Tokyo] PHP Notice:  Undefined variable: dblang in /home/festina/fastina.xyz/public_html/profileCheck.php on line 83
+[24-Mar-2019 13:56:48 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/profileCheck.php on line 83
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：セッションID:updmqog820077br16jmoqbblc4l0e5o2
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403408
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:56:48 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：セッションID:k2srvisq7nq8jut5gs8139c2hhpc9ass
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403408
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：セッションID:bgkfesq3ds6p73laemk9eegre22k46qc
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403416
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:56:56 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:57:05 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 13:57:05 Asia/Tokyo] デバッグ：セッションID:f87stkdk4gn935ufvq32hctrpjpu861p
+[24-Mar-2019 13:57:05 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403416
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:57:05 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 13:57:05 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 13:57:11 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 13:57:11 Asia/Tokyo] デバッグ：セッションID:o1qcpect5vkfuuj5ljreetj7nhnqugd4
+[24-Mar-2019 13:57:11 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:57:16 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 13:57:16 Asia/Tokyo] デバッグ：セッションID:334ird9g5pesum2id3j69l9ocv6tct23
+[24-Mar-2019 13:57:16 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:57:16 Asia/Tokyo] デバッグ：$dbUser:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [name] => ゲストアカウント
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] =>   ゲストアカウントです。 
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [name] => raika
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] => テストテスト 
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [name] => 太郎
+                    [pic] => 
+                    [comment] => 
+                )
+
+        )
+
+)
+
+[24-Mar-2019 13:57:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 13:57:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 13:57:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 13:58:52 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 13:58:52 Asia/Tokyo] デバッグ：セッションID:10vn56csscnals24ltc02b39jk2i6een
+[24-Mar-2019 13:58:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined index: category in /home/festina/fastina.xyz/public_html/userindex.php on line 22
+[24-Mar-2019 13:58:52 Asia/Tokyo] デバッグ：$dbUser:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [name] => ゲストアカウント
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] =>   ゲストアカウントです。 
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [name] => raika
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] => テストテスト 
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [name] => 太郎
+                    [pic] => 
+                    [comment] => 
+                )
+
+        )
+
+)
+
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined variable: dbCategory in /home/festina/fastina.xyz/public_html/userindex.php on line 67
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/festina/fastina.xyz/public_html/userindex.php on line 67
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined index: tab in /home/festina/fastina.xyz/public_html/userindex.php on line 76
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/festina/fastina.xyz/public_html/userindex.php on line 76
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined index: tab in /home/festina/fastina.xyz/public_html/userindex.php on line 77
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/festina/fastina.xyz/public_html/userindex.php on line 77
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined index: tab in /home/festina/fastina.xyz/public_html/userindex.php on line 78
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/festina/fastina.xyz/public_html/userindex.php on line 78
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/userindex.php on line 99
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/userindex.php on line 99
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/userindex.php on line 99
+[24-Mar-2019 13:58:52 Asia/Tokyo] PHP Notice:  Undefined variable: dbFormdata in /home/festina/fastina.xyz/public_html/userindex.php on line 112
+[24-Mar-2019 14:04:11 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 14:04:11 Asia/Tokyo] デバッグ：セッションID:2k11k8lgm3rh61dneniftmjcaqrcqusi
+[24-Mar-2019 14:04:11 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:04:14 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 14:04:14 Asia/Tokyo] デバッグ：セッションID:j0qi5gf6v2qktgum2d1q9r659dnd6dni
+[24-Mar-2019 14:04:14 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:04:14 Asia/Tokyo] デバッグ：$dbUser:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [name] => ゲストアカウント
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] =>   ゲストアカウントです。 
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [name] => raika
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] => テストテスト 
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [name] => 太郎
+                    [pic] => 
+                    [comment] => 
+                )
+
+        )
+
+)
+
+[24-Mar-2019 14:04:14 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:04:14 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:04:14 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:04:21 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 14:04:21 Asia/Tokyo] デバッグ：セッションID:rio7hfr9qi8chlap949vbau4upehsvd3
+[24-Mar-2019 14:04:21 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:04:21 Asia/Tokyo] デバッグ：$dbUser:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [name] => ゲストアカウント
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] =>   ゲストアカウントです。 
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [name] => raika
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] => テストテスト 
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [name] => 太郎
+                    [pic] => 
+                    [comment] => 
+                )
+
+        )
+
+)
+
+[24-Mar-2019 14:04:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:04:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:04:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:05:55 Asia/Tokyo] デバッグ：<<<コミュニティ検索ページ>>>
+[24-Mar-2019 14:05:55 Asia/Tokyo] デバッグ：セッションID:b4q6me4umkp6k7jj126nbhmf1kk7rtel
+[24-Mar-2019 14:05:55 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:05:55 Asia/Tokyo] デバッグ：$dbUser:Array
+(
+    [total] => 3
+    [total_page] => 1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 3
+                    [name] => ゲストアカウント
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] =>   ゲストアカウントです。 
+                )
+
+            [1] => Array
+                (
+                    [id] => 1
+                    [name] => raika
+                    [pic] => uploads/10b3c54f7edf30ddb820f8089a9b7ccb87ed5d49.png
+                    [comment] => テストテスト 
+                )
+
+            [2] => Array
+                (
+                    [id] => 2
+                    [name] => 太郎
+                    [pic] => 
+                    [comment] => 
+                )
+
+        )
+
+)
+
+[24-Mar-2019 14:05:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:05:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:05:55 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /home/festina/fastina.xyz/public_html/community.php on line 189
+[24-Mar-2019 14:06:12 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 14:06:12 Asia/Tokyo] デバッグ：セッションID:o3rju8uq2j2oko28gj9bstkbs7sdarmn
+[24-Mar-2019 14:06:12 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:06:16 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 14:06:16 Asia/Tokyo] デバッグ：セッションID:uriu23s94ig9pco54c91a3buo6g787mt
+[24-Mar-2019 14:06:16 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:06:16 Asia/Tokyo] デバッグ：body:1/1〜1/3 サーバーメンテナンスを行います。
+作業に伴い、下記機能がご利用いただけません。
+　・日記投稿
+　・イベント投稿
+　・掲示板
+[24-Mar-2019 14:06:19 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 14:06:19 Asia/Tokyo] デバッグ：セッションID:l7o1036tgekt5ti9bfogrq5ei546a6q4
+[24-Mar-2019 14:06:19 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：セッションID:srailnk4pe2io7vc0fkqhseievmadnv5
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：セッションID:vfkis6loh4sjnvouq60jej4bu35kb1a4
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:12:15 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 14:12:16 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:12:16 Asia/Tokyo] デバッグ：セッションID:8du76ro1o8bhqfeoum4835g2sm05hiec
+[24-Mar-2019 14:12:16 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：セッションID:agddd4lo7r12n3l4t2v6rttgtaccnhi6
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553403425
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：セッションID:eo9kf3vrfe6akjb1sa9gq5mutlumhm6o
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553404343
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:12:23 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 14:12:28 Asia/Tokyo] デバッグ：<<<プロフィール編集>>>
+[24-Mar-2019 14:12:28 Asia/Tokyo] デバッグ：セッションID:i5a4t6oak7q8v7jklt8om3ofmq7oomcl
+[24-Mar-2019 14:12:28 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553404343
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:12:28 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 14:12:28 Asia/Tokyo] デバッグ：POST:Array
+(
+)
+
+[24-Mar-2019 14:22:46 Asia/Tokyo] デバッグ：<<<ログアウト>>>
+[24-Mar-2019 14:22:46 Asia/Tokyo] デバッグ：セッションID:rl2jpck999aqrseg8192d202r83aqa3h
+[24-Mar-2019 14:22:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 3
+    [login_time] => 1553404348
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:22:46 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:22:46 Asia/Tokyo] デバッグ：セッションID:htrjum23nmbnl2q8cg6mkh01dc97jggf
+[24-Mar-2019 14:22:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:22:49 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:22:49 Asia/Tokyo] デバッグ：セッションID:gh2jpfmhn8dle3d8ii0ikfihikn021jv
+[24-Mar-2019 14:22:49 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:23:25 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:23:25 Asia/Tokyo] デバッグ：セッションID:m7cib18ea3kn1tkq58jvajf5d3mj8643
+[24-Mar-2019 14:23:25 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:07 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:07 Asia/Tokyo] デバッグ：セッションID:h6nhf09v7enickkrrp75sap2il4cfsln
+[24-Mar-2019 14:31:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:07 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:07 Asia/Tokyo] デバッグ：セッションID:lvthp0fe12ov4v4fmp0vj0it6iee9c2g
+[24-Mar-2019 14:31:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:08 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:08 Asia/Tokyo] デバッグ：セッションID:h4aariaho0aiunkokfmkf1ir16bf6763
+[24-Mar-2019 14:31:08 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:11 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:11 Asia/Tokyo] デバッグ：セッションID:vpmeoglicek479h162gkq7hqu6a0j985
+[24-Mar-2019 14:31:11 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:18 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:18 Asia/Tokyo] デバッグ：セッションID:6neotihnj1f4akui8fo4k6urkm3hmg4f
+[24-Mar-2019 14:31:18 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:19 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:19 Asia/Tokyo] デバッグ：セッションID:sl9a3qgkq2b2dnl6ehesuvt2kl615hiu
+[24-Mar-2019 14:31:19 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:19 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:19 Asia/Tokyo] デバッグ：セッションID:ieogk3ic9q8t74n7umgqshh8aidoskli
+[24-Mar-2019 14:31:19 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:31:53 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:31:53 Asia/Tokyo] デバッグ：セッションID:h43k99166p05t3rebnas6tgth6c6vogv
+[24-Mar-2019 14:31:53 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:33:09 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:33:09 Asia/Tokyo] デバッグ：セッションID:sjjfidfld3ps1o4b10gnv8sqomkacmb7
+[24-Mar-2019 14:33:09 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:41:11 Asia/Tokyo] デバッグ：<<<トップページ>>>
+[24-Mar-2019 14:41:11 Asia/Tokyo] デバッグ：セッションID:augmt49h1f60eqv9h6h4uo9s4u44jj0p
+[24-Mar-2019 14:41:11 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:41:13 Asia/Tokyo] デバッグ：<<<このサイトについて>>>
+[24-Mar-2019 14:41:13 Asia/Tokyo] デバッグ：セッションID:fk044fdu2elkvme7qpqi0dvg0bi5bcpm
+[24-Mar-2019 14:41:13 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:41:42 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 14:41:42 Asia/Tokyo] デバッグ：セッションID:m3ib6lvk4h4pjrekdtahqs84p36968ru
+[24-Mar-2019 14:41:42 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:41:48 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 14:41:48 Asia/Tokyo] デバッグ：セッションID:1pfcq3qelem0j5gj8qos98samvnhhc90
+[24-Mar-2019 14:41:48 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:41:48 Asia/Tokyo] デバッグ：body:現在メンテナンス中につき、下記機能のご利用ができません。
+　・掲示板
+　・データベース
+　・パスワード問い合わせ、再発行
+ご迷惑をお掛け致しますが、ご了承ください
+[24-Mar-2019 14:41:50 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 14:41:50 Asia/Tokyo] デバッグ：セッションID:kuuse44lc1q4al3q6j4nce0c97hiulef
+[24-Mar-2019 14:41:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:41:52 Asia/Tokyo] デバッグ：<<<このサイトについて>>>
+[24-Mar-2019 14:41:52 Asia/Tokyo] デバッグ：セッションID:astj433d7dm8hv3lj9kh0fqdb1v70o0f
+[24-Mar-2019 14:41:52 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:42:06 Asia/Tokyo] デバッグ：<<<お知らせ一覧>>>
+[24-Mar-2019 14:42:06 Asia/Tokyo] デバッグ：セッションID:6l27uctv3p45apb4hnda4b1v4298adg7
+[24-Mar-2019 14:42:06 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:42:07 Asia/Tokyo] デバッグ：<<<お知らせ詳細>>>
+[24-Mar-2019 14:42:07 Asia/Tokyo] デバッグ：セッションID:h68tnf87b1au7k7t90q9qeam3p5h99ng
+[24-Mar-2019 14:42:07 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:42:07 Asia/Tokyo] デバッグ：body:ゲストアカウントにてログイン、その他機能がご利用いただけます。
+ email : guest1@guest.com ~ guest10@guest.com
+ password : password
+その他、ダミーのメールアドレスでの登録もできますが、パスワードの再発行はできませんので、ご了承ください。
+（形式は　~~@~.~ でご利用いただけます）
+[24-Mar-2019 14:42:50 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:42:50 Asia/Tokyo] デバッグ：セッションID:ln6oe1ceae1a97mv6pf2u55ejl27f81k
+[24-Mar-2019 14:42:50 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:42:58 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:42:58 Asia/Tokyo] デバッグ：セッションID:at3nfllsbkfqtsm2jqajo0j8uubjkopj
+[24-Mar-2019 14:42:58 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:43:08 Asia/Tokyo] デバッグ：<<<ログインページ>>>
+[24-Mar-2019 14:43:08 Asia/Tokyo] デバッグ：セッションID:g6e32gh4p5j96tud9dtu4btnlpkg95h5
+[24-Mar-2019 14:43:08 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+)
+
+[24-Mar-2019 14:43:08 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 14:43:08 Asia/Tokyo] デバッグ：セッションID:787sfrciphbu4hs9o2etl6j5nd0am093
+[24-Mar-2019 14:43:08 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 1
+    [login_time] => 1553406188
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:43:08 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 14:43:08 Asia/Tokyo] PHP Notice:  Undefined index: id in /home/festina/fastina.xyz/public_html/mypage.php on line 46
+[24-Mar-2019 14:43:08 Asia/Tokyo] PHP Notice:  Undefined index: title in /home/festina/fastina.xyz/public_html/mypage.php on line 48
+[24-Mar-2019 14:43:08 Asia/Tokyo] PHP Notice:  Undefined index: limit_date in /home/festina/fastina.xyz/public_html/mypage.php on line 50
+[24-Mar-2019 14:46:46 Asia/Tokyo] デバッグ：<<<マイページ>>>
+[24-Mar-2019 14:46:46 Asia/Tokyo] デバッグ：セッションID:iq13dv8v5vfhrpp8ta5013rfvit932ac
+[24-Mar-2019 14:46:46 Asia/Tokyo] デバッグ：$_SESSION:Array
+(
+    [user_id] => 1
+    [login_time] => 1553406188
+    [login_limit] => 86400
+)
+
+[24-Mar-2019 14:46:46 Asia/Tokyo] デバッグ：roguin
+[24-Mar-2019 14:46:46 Asia/Tokyo] PHP Notice:  Undefined index: id in /home/festina/fastina.xyz/public_html/mypage.php on line 46
+[24-Mar-2019 14:46:46 Asia/Tokyo] PHP Notice:  Undefined index: title in /home/festina/fastina.xyz/public_html/mypage.php on line 48
+[24-Mar-2019 14:46:46 Asia/Tokyo] PHP Notice:  Undefined index: limit_date in /home/festina/fastina.xyz/public_html/mypage.php on line 50

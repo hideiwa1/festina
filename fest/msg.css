@@ -1,0 +1,120 @@
+h2 {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+main div {
+    width: 900px;
+    margin: 20px auto;
+    padding: 10px;
+    background: silver;
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+main div a {
+    display: block;
+}
+
+.user {
+    margin: 0;
+    padding: 10px;
+    border-right: 1px solid black;
+    border-radius: 0;
+    width: 150px;
+    float: left;
+}
+
+.user img {
+    width: 80%;
+    border-radius: 50%;
+}
+
+.msg {
+    width: 700px;
+    float: right;
+}
+
+main div span {
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
+    font-size: 14px;
+}
+
+button {
+    font-size: 16px;
+}
+
+.delete {
+    margin-right: 10px;
+}
+
+.button {
+    width: 200px;
+    margin: 0;
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+}
+
+main h2 span {
+    text-align: right;
+    display: block;
+    font-size: 20px;
+}
+
+form {
+    padding: 30px;
+    width: 700px;
+    margin: auto;
+    position: relative;
+    padding-bottom: 0;
+}
+
+form h3 {
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 500px;
+    height: 30px;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    width: 100px;
+    height: 50px;
+    font-size: 16px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: gray 3px 3px;
+    position: absolute;
+    bottom: 50px;
+    right: 40px;
+}
+
+input[type="submit"]:hover {
+    transform: translate(3px, 3px);
+    box-shadow: none;
+}

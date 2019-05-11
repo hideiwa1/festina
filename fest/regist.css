@@ -1,0 +1,143 @@
+main {
+    overflow: hidden;
+}
+
+.main {
+    width: 600px;
+    float: left;
+}
+
+h2 {
+    background: black;
+    color: aliceblue;
+    position: relative;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+h2::before {
+    content: '';
+    border-bottom: 20px solid transparent;
+    border-right: 40px solid gray;
+    position: absolute;
+    top: 100%;
+    left: 0;
+}
+
+form {
+    overflow: hidden;
+}
+
+input[type="text"],
+input[type="password"],
+select {
+    width: 500px;
+    height: 30px;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+input[type="datetime-local"],
+input[type="time"] {
+    margin-left: 50px;
+    margin-right: 30px;
+    font-size: 16px;
+}
+
+input[type="number"] {
+    width: 50px;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+input[type="number"].age {
+    width: 50px;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-left: 50px;
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    width: 100px;
+    height: 50px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: gray 3px 3px;
+    float: right;
+}
+
+input[type="submit"]:hover {
+    transform: translate(3px, 3px);
+    box-shadow: none;
+}
+
+.counter {
+    text-align: right;
+    margin-right: 50px;
+    font-size: 14px;
+}
+
+.img {
+    overflow: hidden;
+    margin-bottom: 15px;
+    margin-left: 70px;
+}
+
+.pic {
+    width: 160px;
+    height: 160px;
+    line-height: 160px;
+    text-align: center;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.pic img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+input[type="file"] {
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    opacity: 0;
+}
+
+.item {
+    background-color: #0088e7;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    padding: 0 10px;
+    min-width: 100px;
+    margin: 5px 0;
+    text-align: center;
+    display: inline-block;
+}

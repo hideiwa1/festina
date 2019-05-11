@@ -1,0 +1,130 @@
+main {
+    padding-bottom: 20px;
+}
+
+.main {
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    background-color: white;
+    border-radius: 10px;
+    border-top: 20px solid #ff9999;
+    border-bottom: 20px solid #ff9999;
+}
+
+h2 {
+    font-weight: bold;
+    line-height: 200%;
+    font-size: 30px;
+    border-bottom: 5px solid #ff9999;
+    color: white;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 0;
+    position: relative;
+}
+
+.h2 {
+    text-align: center;
+    font-family: "YuMincho";
+    display: inline-block;
+    background-color: #ff9999;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    padding: 0 20px;
+}
+
+.h2::before {
+    content: '';
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    bottom: 0;
+    right: -20px;
+    background-color: #ff9999;
+}
+
+.h2::after {
+    content: '';
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 0;
+    right: -40px;
+    border-bottom-left-radius: 20px;
+    background-color: #efffef;
+}
+
+.number {
+    position: absolute;
+    left: 200px;
+    bottom: 10px;
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+}
+
+.total {
+    display: block;
+    width: 100px;
+    float: left;
+}
+
+.page {
+    display: block;
+    width: 200px;
+    float: left;
+}
+
+.title {
+    font-size: 20px;
+}
+
+main .info {
+    margin: 20px;
+    padding: 10px;
+    background: silver;
+    position: relative;
+    border-radius: 20px;
+}
+
+.result {
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color: white;
+    box-shadow: 2px 2px gray;
+    border-radius: 10px;
+    position: relative;
+    padding: 10px 20px;
+}
+
+.result a {
+    display: block;
+    font-size: 14px;
+}
+
+h3 {
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 200%;
+    overflow: hidden;
+    position: relative;
+    margin-right: 40px;
+    border-bottom: 5px solid #ff9999;
+}
+
+h3 span {
+    font-size: 14px;
+    height: 30px;
+    line-height: 1.5;
+}
+
+h3 .date {
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}

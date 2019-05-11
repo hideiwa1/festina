@@ -1,0 +1,238 @@
+main {
+    overflow: hidden;
+}
+
+.main {
+    width: 600px;
+    float: left;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-weight: bold;
+    line-height: 200%;
+    font-size: 30px;
+    border-bottom: 5px solid #9999ff;
+    color: white;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.h2 {
+    font-family: "YuMincho";
+    text-align: center;
+    display: inline-block;
+    background-color: #9999ff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    padding: 0 20px;
+}
+
+.h2::before {
+    content: '';
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    bottom: 0;
+    right: -20px;
+    background-color: #9999ff;
+}
+
+.h2::after {
+    content: '';
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 0;
+    right: -40px;
+    border-bottom-left-radius: 20px;
+    background-color: #efffef;
+}
+
+.number {
+    position: absolute;
+    left: 200px;
+    bottom: 10px;
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+}
+
+.todo li,
+.diary li,
+.comment li,
+.event li,
+.result {
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color: white;
+    box-shadow: 2px 2px gray;
+    border-radius: 10px;
+    position: relative;
+    padding: 10px 20px;
+}
+
+.todo li a,
+.diary li a,
+.comment li a,
+.event li a,
+result a {
+    display: block;
+    font-size: 14px;
+}
+
+.user {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 14px;
+}
+
+.title {
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.end {
+    text-align: right;
+    margin-right: 20px;
+}
+
+.list {
+    margin-bottom: 50px;
+}
+
+.total {
+    display: block;
+    width: 100px;
+    float: left;
+    margin-left: 50px;
+}
+
+.page {
+    display: block;
+    width: 200px;
+    float: right;
+}
+
+.open {
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.draft {
+    font-size: 14px;
+    background-color: blue;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.profile {
+    overflow: hidden;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    position: relative;
+}
+
+.profile img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 100px;
+}
+
+.profile p {
+    float: left;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.profile ul {
+    height: 50px;
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
+
+.profile ul li {
+    float: left;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.profile ul li a {
+    height: 40px;
+    width: 250px;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.select {
+    background-color: #192f60;
+    color: white;
+}
+
+.button {
+    position: absolute;
+    bottom: 5px;
+    right: 20px;
+    height: 30px;
+    font-size: 14px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: gray 3px 3px;
+}
+
+form {
+    position: relative;
+    border-bottom: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+input[type="text"] {
+    width: 400px;
+    height: 30px;
+    margin-left: 30px;
+    font-size: 16px;
+    padding: 0;
+}
+
+input[type="datetime-local"] {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 16px;
+    height: 30px;
+    padding: 0;
+}
+
+input[type="submit"] {
+    width: 80px;
+    height: 40px;
+    background: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+    box-shadow: gray 3px 3px;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
+
+input[type="submit"]:hover,
+button:hover {
+    transform: translate(3px, 3px);
+    box-shadow: none;
+}

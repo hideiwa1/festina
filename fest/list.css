@@ -1,0 +1,150 @@
+main {
+    overflow: hidden;
+}
+
+.main {
+    width: 600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-weight: bold;
+    line-height: 200%;
+    font-size: 30px;
+    border-bottom: 5px solid #9999ff;
+    color: white;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.h2 {
+    font-family: "YuMincho";
+    text-align: center;
+    display: inline-block;
+    background-color: #9999ff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    padding: 0 20px;
+}
+
+.h2::before {
+    content: '';
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    bottom: 0;
+    right: -20px;
+    background-color: #9999ff;
+}
+
+.h2::after {
+    content: '';
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    bottom: 0;
+    right: -40px;
+    border-bottom-left-radius: 20px;
+    background-color: #efffef;
+}
+
+.number {
+    position: absolute;
+    left: 200px;
+    bottom: 10px;
+    font-size: 16px;
+    color: black;
+    line-height: 1.5;
+}
+
+.profile {
+    overflow: hidden;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    position: relative;
+}
+
+.profile img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 100px;
+}
+
+.profile p {
+    float: left;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.profile ul {
+    height: 50px;
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
+
+.profile ul li {
+    float: left;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.profile ul li a {
+    height: 40px;
+    width: 250px;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.select {
+    background-color: #192f60;
+    color: white;
+}
+
+.result {
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-right: 2px;
+    background-color: white;
+    box-shadow: 2px 2px gray;
+    border-radius: 10px;
+    position: relative;
+    padding: 10px 20px;
+}
+
+.result a {
+    display: block;
+    font-size: 14px;
+}
+
+.total {
+    display: block;
+    width: 100px;
+    float: left;
+    margin-left: 50px;
+}
+
+.page {
+    display: block;
+    width: 200px;
+    float: right;
+}
+
+.user {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 14px;
+}
+
+.title {
+    font-size: 20px;
+}

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ja" ?>
+
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="msg.css">
+    <title>Festina Lente</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="site-width">
+            <h1>Festina Lente</h1>
+            <nav class="login">
+                <div>
+                    <a href="login.html">
+                        <img src="img/avatar2.jpg">
+                        ログイン
+                    </a>
+                </div>
+            </nav>
+        </div>
+        <div id="menu">
+            <nav class="menu">
+                <ul>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="info.html">お知らせ</a></li>
+                    <li><a href="comunity.html">コミュニティ</a></li>
+                    <li><a href="msg.html">掲示板</a></li>
+                    <li><a href="database.html">データベース</a></li>
+                    <li><a href="contact.html">お問い合わせ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="site-width">
+        <section>
+            <h2>掲示板</h2>
+            <div>
+                <a href="info.html">
+                    <h3>雑談掲示板</h3>
+                    <span>最終投稿日：2019/1/1</span>
+                </a>
+            </div>
+            <div>
+                <a href="info.html">
+                    <h3>画像のスライド表示について</h3>
+                    <span>最終投稿日：2019/1/1</span>
+                </a>
+            </div>
+            <div>
+                <a href="info.html">
+                    <h3>データベースの設定について</h3>
+                    <span>最終投稿日：2019/1/1</span>
+                </a>
+            </div>
+            <form method="post">
+                <h3>新規スレッド作成</h3>
+                <p>タイトル<br>
+                    <input type="text" name="title">
+                </p>
+                <p>内容<br>
+                    <textarea name="comment"></textarea>
+                </p>
+                <input type="submit" name="submit" value="作成する" class="submit">
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>Copyright <a href="">Festina Lente</a> All Right Reserved</p>
+        <script src="jquery01/jquery-3.3.1.min.js"></script>
+        <script>
+            $(function() {
+                //フッター
+                var $ftr = $("footer"),
+                    $win = $(window),
+                    winHeight = 0,
+                    ftrHeight = 0,
+                    timer = null;
+
+                function ftrFixed() {
+                    if (winHeight > ftrHeight) {
+                        $ftr.attr({
+                            'style': 'position:fixed; bottom: 0px;'
+                        });
+                    } else {
+                        $ftr.removeAttr('style');
+                    }
+                }
+
+                function updateHeight() {
+                    $ftr.removeAttr('style');
+                    winHeight = $win.innerHeight;
+                    ftrHeight = $ftr.offset().top + $ftr.outerHeight();
+                }
+                updateHeight();
+                ftrFixed();
+                console.log(ftrHeight);
+
+                $win.on('resize', function() {
+                    clearTimeout(timer);
+                    timer = setTimeout(function() {
+                        updateHeight();
+                        ftrFixed();
+                    }, 300);
+                });
+
+                //スライドショー
+                var imgTimer = null,
+                    lastImg = parseInt($(".slide li").length - 1);
+                i = 0;
+
+                $(".slide li").attr({
+                    "style": "display:none;"
+                });
+
+                $(".slide li").eq(i).attr({
+                    "style": "display:block;"
+                });
+                $(".slide-bar li").eq(i).addClass("active");
+
+                function imgFade() {
+                    $(".slide li").fadeOut(1000);
+                    $(".slide-bar li").removeClass("active");
+                    $(".slide-bar li").eq(i).addClass("active");
+                    $(".slide li").eq(i).fadeIn(1000);
+                }
+
+                function imgSlide() {
+                    imgTimer = setInterval(function() {
+                        if (i === lastImg) {
+                            i = 0;
+                            imgFade();
+                        } else {
+                            i++;
+                            imgFade();
+                        }
+                    }, 5000);
+                }
+                imgSlide();
+
+                $(".slide-bar li").on('click', function() {
+                    clearInterval(imgTimer);
+                    imgSlide();
+                    i = $(".slide-bar li").index(this);
+                    imgFade();
+                });
+            });
+
+        </script>
+    </footer>
+
+</body>
+
+
+
+</html>
