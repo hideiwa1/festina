@@ -1,5 +1,5 @@
+(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 $(function () {
-    //タイトルメニュー　フェードイン
     $('.toptitle').fadeIn(3000);
     var profile = $('#profile').offset().top,
         works = $('#works').offset().top,
@@ -76,7 +76,6 @@ $(function () {
             }
         }
 
-        //メニュー　フェード
         if (heigh >= beforeScroll) {
             if (heigh > 200) {
                 $('.navmanu').addClass('hide');
@@ -88,7 +87,6 @@ $(function () {
 
     });
 
-    //モーダル
     $('.panel').on('click', function () {
         var target = '#' + $(this).data('target'),
             panelTop = $(this).offset().top;
@@ -112,7 +110,6 @@ $(function () {
 
     });
 
-    //バリデーション
     const MSG01 = '入力必須です';
     const MSG02 = 'E-mail形式で入力してください';
     $('.submit').attr('disabled', true);
@@ -168,19 +165,6 @@ $(function () {
         }
     });
 
-    //メール送信
-    $('form').on('submit', function (event) {
-        event.preventDefault();
-        var data = $(this).serialize();
-        $.ajax({
-            type: 'post',
-            url: 'sendmail.php',
-            data: data,
-        }).done(function (result) {
-            console.log('メールを送信しました');
-        }).fail(function (data) {
-            alert('通信に失敗しました');
-        });
-    });
-
 });
+
+},{}]},{},[1]);

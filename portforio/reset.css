@@ -23,8 +23,7 @@ td {
     padding: 0;
     border: 0;
     font-weight: normal;
-    font-size: 100%;
-    vertical-align: baseline;
+    vertical-align: middle;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
