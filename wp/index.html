@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>タイトル</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="title">
+            <a href="index.html">ミント薬局</a>
+        </h1>
+        <div class="menu-trigger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <nav class="nav-menu">
+            <ul class="menu">
+                <li class="menu__item"><a href="about.html">about</a></li>
+                <li class="menu__item"><a href="news.html">News</a></li>
+                <li class="menu__item"><a href="blog.html">blog</a></li>
+                <li class="menu__item"><a href="access.html">access</a></li>
+                <li class="menu__item"><a href="contact.html">contact</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <section class="hero">
+        <img src="img/hero.png" class="hero__img">
+    </section>
+
+    <main class="main">
+        <section class="about">
+            <h2 class="category">
+                About
+            </h2>
+            <img src="img/about.png" class="about__img">
+            <p class="about__comment">
+                ミント薬局では、全国の病院・診療所の処方箋を受け付けております。<br><br>
+
+                受付時間：１０：００〜１９：００<br>
+                定休日：土曜日・日曜日・祝日
+            </p>
+            <a href="about.html"><img src="img/more.png" class="more"></a>
+        </section>
+
+        <section class="news panel">
+            <h2 class="category">
+                News
+            </h2>
+            <p class="news__comment">
+                お知らせ<br>
+                日付
+            </p>
+            <p class="news__comment">
+                お知らせ<br>
+                日付
+            </p>
+            <p class="news__comment">
+                お知らせ<br>
+                日付
+            </p>
+            <a href="news.html"><img src="img/more.png" class="more"></a>
+        </section>
+
+        <section class="blog panel">
+            <h2 class="category">
+                Blog
+            </h2>
+            <p class="blog__comment">
+                お知らせ<br>
+                日付
+            </p>
+            <p class="blog__comment">
+                お知らせ<br>
+                日付
+            </p>
+            <p class="blog__comment">
+                お知らせ<br>
+                日付
+            </p>
+            <a href="blog.html"><img src="img/more.png" class="more"></a>
+        </section>
+
+        <section class="access panel">
+            <h2 class="category">
+                Access
+            </h2>
+            <img src="img/access.png" class="access__img">
+            <p class="access__comment">
+                住所：東京都中央区築地１−１−１
+            </p>
+            <a href="about.html"><img src="img/more.png" class="more"></a>
+        </section>
+        <section class="contact panel">
+            <h2 class="category">
+                Contact
+            </h2>
+            <img src="img/contact.png" class="contact__img">
+            <p class="contact__comment">
+                お問合わせ、採用情報はこちらへ
+            </p>
+            <a href="contact.html"><img src="img/more.png" class="more"></a>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>Copyright festinalente All Right Reserved</p>
+        <script>
+            const result = document.getElementsByClassName('panel');
+            console.log(result[0]);
+            console.log(result[1]);
+
+        </script>
+    </footer>
+
+</body>
+
+</html>
