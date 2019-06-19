@@ -6,7 +6,8 @@
     <title>タイトル</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" type="text/css" href="reset.css">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <!--<link rel="stylesheet" type="text/css" href="style.css">-->
+    <script src="dist/js/bundle.js"></script>
 </head>
 
 <body>
@@ -28,7 +29,6 @@
                 <li class="menu__item"><a href="contact.html">contact</a></li>
             </ul>
         </nav>
-
     </header>
 
     <main class="main">
@@ -36,26 +36,8 @@
             <h2 class="category">
                 Contact
             </h2>
-            <form method="post" class="form">
-                <p>
-                    <label>お名前</label>
-                    <input type="text" name="name">
-                </p>
-
-                <p>
-                    <label>Email</label>
-                    <input type="text" name="email">
-                </p>
-                <p>
-                    <label>電話番号</label>
-                    <input type="text" name="tel">
-                </p>
-                <p>
-                    <labe>お問合わせ内容</labe>
-                    <textarea name="comment" rows="5"></textarea>
-                </p>
-                <input type="submit" value="送信する" class="submit">
-            </form>
+            <div class="contact-form">
+            </div>
         </section>
 
         <section class="recruit">
@@ -65,13 +47,15 @@
             <p class="recruit__comment">
                 現在の採用情報はございません
             </p>
+            <div class="contact-form">
+            </div>
         </section>
     </main>
 
     <footer class="footer">
         <p>Copyright festinalente All Right Reserved</p>
+        <!--<script src="dist/js/bundle.js"></script>-->
     </footer>
 
 </body>
-
 </html>
