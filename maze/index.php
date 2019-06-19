@@ -9,7 +9,7 @@ class Zone{
     const EAST = 1;
     const SOUTH = 2;
     const WEST = 3;
-    
+
     public static function getZone($num){
         switch($num){
             case self::NORTH :
@@ -33,7 +33,7 @@ class Maze{
     protected $height;
     protected $maze;
     protected $startPoint;
-    
+
     public function __construct($width, $height){
         if(($width % 2) === 0) $width++;
         if(($height % 2) === 0) $height++;
@@ -42,11 +42,11 @@ class Maze{
         $this -> maze = array();
         $this -> startPoint = array();
     }
-    
+
     public function getMaze(){
         return $this -> maze;
     }
-    
+
     public function createMaze(){
         for($x = 0; $x < $this -> width; $x++){
             for($y = 0; $y < $this -> height; $y++){
@@ -57,9 +57,9 @@ class Maze{
                 }
             }
         }
-        
+
         $this -> Dig(1,1);
-        
+
         for($x = 0; $x < $this -> width; $x++){
             for($y = 0; $y < $this -> height; $y++){
                 if($x === 0 || $y === 0 || $x === $this -> width -1 || $y === $this -> height -1){
@@ -68,9 +68,9 @@ class Maze{
             }
         }
     }
-    
+
     public function Dig($x, $y){
-        
+
         while(true){
             $direction = array();
             if($this -> maze[$x][$y-1] === 'Wall' && $this -> maze[$x][$y-2] === 'Wall'){
@@ -111,14 +111,14 @@ class Maze{
         $cell = $this -> GetStartPoint();
         if(!empty($cell)) $this -> Dig($cell['X'], $cell['Y']);
     }
-    
+
     public function SetWay($x, $y){
         $this -> maze[$x][$y] = 'Way';
         if($x % 2 === 1 && $y % 2 === 1){
             $this -> startPoint[] = ['X' => $x, 'Y' => $y];
         }
     }
-    
+
     public function GetStartPoint(){
         if(empty($this -> startPoint)) return null;
         $index = mt_rand(0, count($this -> startPoint)-1);
@@ -127,7 +127,7 @@ class Maze{
         $this -> startPoint = array_values($this -> startPoint);
         return $cell;
     }
-    
+
 }
 
 class Map extends Maze{
@@ -266,7 +266,7 @@ class Map extends Maze{
                     }else{
                         echo '<span class="'.$x.'-'.$y.' mapcell moved">　</span>';
                     }
-                } 
+                }
             }
             echo '<br>';
         }
@@ -427,7 +427,6 @@ function createHuman(){
 function encount(){
     if(!mt_rand(0, 4)){
         createMonster();
-        History::set($_SESSION['monster'] -> getName().'が現れた！');
     }
 }
 
@@ -471,10 +470,9 @@ if(!empty($_POST)){
             $direction = $_SESSION['map'] -> MovableDirection();
             if($_SESSION['floor'] === 5){
                 createBoss();
-            } 
+            }
         }
         if(!empty($_POST['attack'])){
-            History::set($_SESSION['human'] -> getName().'の攻撃');
             $_SESSION['human'] -> attack($_SESSION['monster']);
 
             if($_SESSION['monster'] -> getHp() <= 0){
@@ -484,7 +482,6 @@ if(!empty($_POST)){
                 $_SESSION['monster'] = '';
             }
             if(!empty($_SESSION['monster'])){
-                History::set($_SESSION['monster'] -> getName().'の攻撃');
                 $_SESSION['monster'] -> attack($_SESSION['human']);
 
                 if($_SESSION['human'] -> getHp() <= 0){
