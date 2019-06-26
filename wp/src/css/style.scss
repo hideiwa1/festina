@@ -16,6 +16,7 @@ $font-color_base: #3AC651;
 
 $background-color_base: #DBF4DF;
 $background-color_menu: #F8F5CA;
+$background-color_modal: #808080;
 
 $site-width: 980px;
 
@@ -102,13 +103,16 @@ body {
     }
 }
 
+/*
+ハンバーガー
+*/
 .menu-trigger {
     width: 30px;
     height: 20px;
     position: fixed;
-    right: $space_m;
+    right: $space_l;
     top: ($font-size_xl * $line-height) /2;
-
+	z-index: 3;
     @include mq() {
         display: none;
     }
@@ -132,6 +136,32 @@ body {
             bottom: 0;
         }
     }
+}
+
+/*
+モーダル
+*/
+
+.modal{
+		width: 100vw;
+		height: 120vh;
+		text-align: center;
+		background-color: rgba($background-color_modal, 0.5);
+		position: fixed;
+		top: 0;
+		left: 0;
+		
+		.modal-menu__item{
+				display: block;
+				height: 15vh;
+				margin: 3vh;
+				line-height: 15vh;
+				font-size: 10vh;
+				
+				a{
+						display: block;
+				}
+		}
 }
 
 /*
@@ -278,6 +308,7 @@ body {
 }
 
 /*フォーム*/
+
 .form {
     font-size: $font-size_default;
 
@@ -291,9 +322,13 @@ body {
         margin-bottom: $space_l;
     }
 
+	.errMsg{
+		display: block;
+		color: red;
+	}
+	
     label {
         float: left;
-
     }
 
     input[type="text"] {
