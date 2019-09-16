@@ -1,0 +1,112 @@
+---
+- hosts: all
+  sudo: yes
+  vars:
+    mysql_user_name: vagrant
+    mysql_user_password: vagrant
+  tasks:
+    - name: SELinuxのDisable設定
+      selinux: state=disabled
+
+    - name: add ja_JP.UTF-8 to locale
+      shell: localedef -f UTF-8 -i ja_JP /usr/lib/locale/ja_JP.UTF-8
+
+    - name: set locale
+      shell: localectl set-locale LANG=ja_JP.utf8
+      when: ansible_env.LANG | default('')!='ja_JP.UTF-8'
+
+    - name: set timezone to Asia/Tokyo
+      timezone:
+        name: Asia/Tokyo
+
+    - name: Install Apacheをインストール
+      yum: name=httpd
+
+    - name: Apacheを起動
+      service: name=httpd state=started enabled=yes
+
+    - name: .htaccessを有効にする
+      replace:
+        dest=/etc/httpd/conf/httpd.conf
+        regexp='AllowOverride None'
+        replace='AllowOverride All'
+
+    - name: yum install epel-repease
+      yum: name=epel-release state=installed
+
+    - name: add remi-repo repository
+      command: rpm -ih http://rpms.famillecollet.com/enterprise/remi-release-7.rpm creates=/etc/yum.repos.d/remi.repo
+
+    - name: PHP7.2をインストール
+      yum: name={{item}} enablerepo=remi,remi-php72 state=installed
+      with_items:
+        - php
+        - php-devel
+        - php-common
+        - php-fpm
+        - php-opcache
+        - php-pecl-redis
+        - php-mbstring
+        - php-mcrypt
+        - php-mysqlnd
+        - php-pdo
+        - php-gd
+        - php-xml
+        - php-zip
+        - unzip
+        - php-pecl-zip
+
+    - name: PHPタイムゾーンの設定
+      replace: >
+       dest=/etc/php.ini
+       regexp="^;date\.timezone ="
+       replace="date.timezone = Asia/Tokyo"
+
+    - name: MySQL5.7のリポジトリを追加
+      command: >
+       yum -y install http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm
+       creates=/etc/yum.repos.d/mysql-community.repo
+
+    - name: MySQLをインストール
+      yum: name={{item}}
+      with_items:
+        - mysql-server
+        - MySQL-python
+
+    - name: MySQLを起動
+      service: name=mysqld state=started enabled=yes
+
+    - name: MySQLのユーザーを追加
+      mysql_user: name={{mysql_user_name}} password={{mysql_user_password}} priv=*.*:ALL
+
+    #- name: Apache再起動
+    #  service: name=httpd state=restarted
+
+    - name: install composer
+      shell: curl -sS https://getcomposer.org/installer | php -- --install-dir=/bin/ && mv /bin/composer.phar /bin/composer
+      args:
+        creates: /bin/composer
+
+    - name: laravel install
+      shell: composer global require "laravel/installer"
+      args:
+        creates: /root/.composer/vender/bin/laravel
+
+    - name: laravel project
+      shell: composer create-project "laravel/laravel" sample
+      args:
+        chdir: /var/www
+        creates: /var/www/sample
+
+    # アクセスパスの変更、デフォルトは/var/www/html
+    - name: httpd.conf 編集
+      replace:
+        path: /etc/httpd/conf/httpd.conf
+        regexp: '^DocumentRoot "/var/www/html"'
+        replace: DocumentRoot "/var/www/sample/public"
+
+    - name: httpd.conf 編集
+      replace:
+        path: /etc/httpd/conf/httpd.conf
+        regexp: '^\<Directory "/var/www/html"\>'
+        replace: <Directory "/var/www/sample/public">
