@@ -6,7 +6,7 @@
     "scripts": {
         "build": "webpack --mode=production",
         "build:dev": "webpack --mode=development",
-        "watch": "webpack-dev-server --mode=development"
+        "watch": "webpack-dev-server --open --inline --mode=development"
     },
     "author": "",
     "license": "ISC",

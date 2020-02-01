@@ -1,17 +1,18 @@
 const path = require('path');
+const webpack = require('webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = (env, argv) => ({
     entry: path.join(__dirname, 'src/app.js'),
     output: {
         path: path.join(__dirname, 'dist/js'),
+        publicPath: 'js/',
         filename: 'bundle.js'
     },
     devServer: {
         contentBase: path.join(__dirname, 'dist'),
         watchContentBase: true,
         inline: true,
-        publicPath: '/js/',
         open: true
     },
     module: {
@@ -34,9 +35,7 @@ module.exports = (env, argv) => ({
                 test: /\.scss$/,
                 use: [
                     'style-loader',
-                    /*
                     MiniCssExtractPlugin.loader,
-                    */
                     {
                         loader: 'css-loader',
                         options: {
@@ -48,13 +47,15 @@ module.exports = (env, argv) => ({
             },
         ]
     },
-    /*
     plugins: [
             new MiniCssExtractPlugin({
             filename: 'style.css'
         }),
+        new webpack.ProvidePlugin({
+            $: 'jquery',
+            jQuery: 'jquery'
+        })
     ],
-    */
     resolve: {
         modules: [path.join(__dirname, 'src'), 'node_modules'],
         extensions: ['.js', '.jsx']
