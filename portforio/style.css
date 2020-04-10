@@ -94,7 +94,6 @@ header {
 
 /*作品*/
 #works {
-  overflow: hidden;
   position: relative; }
 
 .left {
